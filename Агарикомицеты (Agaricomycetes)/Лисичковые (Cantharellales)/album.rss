@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Лисичковые (Cantharellales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/album.rss" title="Ежовиковые (Hydnaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/Ежовик жёлтый (Hydnum repandum)/thumbs/fungi-0003469.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/album.rss" title="Клавулиновые (Clavulinaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Клавулина гребенчатая (Clavulina cristata)/thumbs/DSC07545_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/album.rss" title="Лисичковые (Cantharellaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Лисичка обыкновенная (Cantharellus cibarius)/thumbs/fungi-0004514.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Диатрипелла бородавчатая (Diatrypella verruciformis)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Диатриповые (Diatrypaceae)/Диатрипелла бородавчатая (Diatrypella verruciformis)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004271</title>
+            <link>http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Диатриповые (Diatrypaceae)/Диатрипелла бородавчатая (Diatrypella verruciformis)/slides/fungi-0004271.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:49 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Диатриповые (Diatrypaceae)/Диатрипелла бородавчатая (Diatrypella verruciformis)/thumbs/fungi-0004271.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Диатриповые (Diatrypaceae)/Диатрипелла бородавчатая (Diatrypella verruciformis)/slides/fungi-0004271.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 17 Oct 2010 15:13:56 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004271.jpg</guid>
+        </item>
+    </channel>
+</rss>

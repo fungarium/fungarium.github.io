@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Вороночник извилистый (Craterellus sinuosus)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0000490</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/slides/fungi-0000490.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:38 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/thumbs/fungi-0000490.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/slides/fungi-0000490.JPG" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0000490.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0000491</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/slides/fungi-0000491.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:38 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/thumbs/fungi-0000491.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/slides/fungi-0000491.JPG" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0000491.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0000492</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/slides/fungi-0000492.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:38 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/thumbs/fungi-0000492.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/slides/fungi-0000492.JPG" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0000492.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Леканоровые (Lecanorales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Леканоромицеты (Lecanoromycetes)/Леканоровые (Lecanorales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леканоромицеты (Lecanoromycetes)/Леканоровые (Lecanorales)/Биаторелловые (Biatorellaceae)/album.rss" title="Биаторелловые (Biatorellaceae)" thumbnail="http://fungarium.info/Леканоромицеты (Lecanoromycetes)/Леканоровые (Lecanorales)/Биаторелловые (Biatorellaceae)/Биатерелла двухформенная, биатерелловый рак (Biatorella difformis)/thumbs/DSC06218.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

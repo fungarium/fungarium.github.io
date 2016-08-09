@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Колеоспоровые (Coleosporiaceae)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Пукциниомицеты (Pucciniomycetes)/Ржавчинные грибы, пукциниевые (Pucciniales)/Колеоспоровые (Coleosporiaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Пукциниомицеты (Pucciniomycetes)/Ржавчинные грибы, пукциниевые (Pucciniales)/Колеоспоровые (Coleosporiaceae)/Колеоспорий рибикола (Coleosporium ribicola)/album.rss" title="Колеоспорий рибикола (Coleosporium ribicola)" thumbnail="http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Пукциниомицеты (Pucciniomycetes)/Ржавчинные грибы, пукциниевые (Pucciniales)/Колеоспоровые (Coleosporiaceae)/Колеоспорий рибикола (Coleosporium ribicola)/thumbs/IMG_5403_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

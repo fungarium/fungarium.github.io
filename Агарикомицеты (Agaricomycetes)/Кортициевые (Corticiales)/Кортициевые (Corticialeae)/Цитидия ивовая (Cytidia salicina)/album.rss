@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Цитидия ивовая (Cytidia salicina)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/Цитидия ивовая (Cytidia salicina)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0001540</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/Цитидия ивовая (Cytidia salicina)/slides/fungi-0001540.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:38 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/Цитидия ивовая (Cytidia salicina)/thumbs/fungi-0001540.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/Цитидия ивовая (Cytidia salicina)/slides/fungi-0001540.JPG" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0001540.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0001541</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/Цитидия ивовая (Cytidia salicina)/slides/fungi-0001541.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:38 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/Цитидия ивовая (Cytidia salicina)/thumbs/fungi-0001541.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/Цитидия ивовая (Cytidia salicina)/slides/fungi-0001541.JPG" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0001541.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Головач мешковатый (Calvatia utriformis)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Головач мешковатый (Calvatia utriformis)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004007</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Головач мешковатый (Calvatia utriformis)/slides/fungi-0004007.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Головач мешковатый (Calvatia utriformis)/thumbs/fungi-0004007.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Головач мешковатый (Calvatia utriformis)/slides/fungi-0004007.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 10 Sep 2010 08:08:03 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004007.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004008</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Головач мешковатый (Calvatia utriformis)/slides/fungi-0004008.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Головач мешковатый (Calvatia utriformis)/thumbs/fungi-0004008.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Головач мешковатый (Calvatia utriformis)/slides/fungi-0004008.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 10 Sep 2010 08:08:30 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004008.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004009</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Головач мешковатый (Calvatia utriformis)/slides/fungi-0004009.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Головач мешковатый (Calvatia utriformis)/thumbs/fungi-0004009.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Головач мешковатый (Calvatia utriformis)/slides/fungi-0004009.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 10 Sep 2010 08:08:44 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004009.jpg</guid>
+        </item>
+    </channel>
+</rss>

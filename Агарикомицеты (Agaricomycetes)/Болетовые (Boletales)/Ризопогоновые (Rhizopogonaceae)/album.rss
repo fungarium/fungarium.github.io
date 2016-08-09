@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ризопогоновые (Rhizopogonaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Ризопогоновые (Rhizopogonaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Ризопогоновые (Rhizopogonaceae)/Ризопогон, корневец желтоватый (Rhizopogon obtectus)/album.rss" title="Ризопогон, корневец желтоватый (Rhizopogon obtectus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Ризопогоновые (Rhizopogonaceae)/Ризопогон, корневец желтоватый (Rhizopogon obtectus)/thumbs/DSC06270.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

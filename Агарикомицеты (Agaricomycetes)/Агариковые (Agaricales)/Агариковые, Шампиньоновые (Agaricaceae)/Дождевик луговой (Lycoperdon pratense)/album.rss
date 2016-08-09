@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дождевик луговой (Lycoperdon pratense)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик луговой (Lycoperdon pratense)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0003722</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик луговой (Lycoperdon pratense)/slides/fungi-0003722.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик луговой (Lycoperdon pratense)/thumbs/fungi-0003722.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик луговой (Lycoperdon pratense)/slides/fungi-0003722.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 20 Oct 2009 13:33:00 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003722.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0003723</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик луговой (Lycoperdon pratense)/slides/fungi-0003723.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик луговой (Lycoperdon pratense)/thumbs/fungi-0003723.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик луговой (Lycoperdon pratense)/slides/fungi-0003723.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 20 Oct 2009 13:33:10 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003723.JPG</guid>
+        </item>
+    </channel>
+</rss>

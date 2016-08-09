@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Звездовиковые (Geastrales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/album.rss" title="Звездовиковые (Geastraceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик сводчатый (Geastrum fornicatum)/thumbs/DSC07284.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

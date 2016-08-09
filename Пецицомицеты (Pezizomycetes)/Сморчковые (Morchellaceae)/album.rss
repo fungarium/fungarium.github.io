@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Сморчковые (Morchellaceae)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Пецицомицеты (Pezizomycetes)/Сморчковые (Morchellaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Сморчковые (Morchellaceae)/Сморчок конический (Morchella conica)/album.rss" title="Сморчок конический (Morchella conica)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Сморчковые (Morchellaceae)/Сморчок конический (Morchella conica)/thumbs/DSC02574.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

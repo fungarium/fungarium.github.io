@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Глеофилловые (Gloeophyllales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Глеофилловые (Gloeophyllales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Глеофилловые (Gloeophyllales)/Глеофилловые (Gloeophyllaceae)/album.rss" title="Глеофилловые (Gloeophyllaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Глеофилловые (Gloeophyllales)/Глеофилловые (Gloeophyllaceae)/Трутовик, Глеофиллум заборный (Gloeophyllum sepiarium)/thumbs/fungi-0002362.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

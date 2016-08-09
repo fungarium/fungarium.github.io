@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гигрофоровые (Hygrophoraceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Гигрофоровые (Hygrophoraceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Гигрофоровые (Hygrophoraceae)/Гигрофор благоуханный (Hygrophorus agathosmus)/album.rss" title="Гигрофор благоуханный (Hygrophorus agathosmus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Гигрофоровые (Hygrophoraceae)/Гигрофор благоуханный (Hygrophorus agathosmus)/thumbs/DSC07167.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Гигрофоровые (Hygrophoraceae)/Гигроцибе жёлто-зелёная (Hygrocybe chlorophana)/album.rss" title="Гигроцибе жёлто-зелёная (Hygrocybe chlorophana)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Гигрофоровые (Hygrophoraceae)/Гигроцибе жёлто-зелёная (Hygrocybe chlorophana)/thumbs/DSC07349.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Гигрофоровые (Hygrophoraceae)/Гигроцибе коническая (Hygrocybe conica)/album.rss" title="Гигроцибе коническая (Hygrocybe conica)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Гигрофоровые (Hygrophoraceae)/Гигроцибе коническая (Hygrocybe conica)/thumbs/fungi-0003863.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Гигрофоровые (Hygrophoraceae)/Гигроцибе пёстрая (Hygrocybe psittacina)/album.rss" title="Гигроцибе пёстрая (Hygrocybe psittacina)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Гигрофоровые (Hygrophoraceae)/Гигроцибе пёстрая (Hygrocybe psittacina)/thumbs/fungi-0003716.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

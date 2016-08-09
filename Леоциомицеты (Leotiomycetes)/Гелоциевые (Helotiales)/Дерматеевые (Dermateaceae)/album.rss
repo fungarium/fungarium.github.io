@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дерматеевые (Dermateaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Дерматеевые (Dermateaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Дерматеевые (Dermateaceae)/Диплокарпон розы (Diplocarpon rosae)/album.rss" title="Диплокарпон розы (Diplocarpon rosae)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Дерматеевые (Dermateaceae)/Диплокарпон розы (Diplocarpon rosae)/thumbs/IMG_5955.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Дерматеевые (Dermateaceae)/Диплокарпон эрлианум (Diplocarpon earlianum)/album.rss" title="Диплокарпон эрлианум (Diplocarpon earlianum)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Дерматеевые (Dermateaceae)/Диплокарпон эрлианум (Diplocarpon earlianum)/thumbs/DSC00539.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Дерматеевые (Dermateaceae)/Марссония березовая (Marssonina betulae)/album.rss" title="Марссония березовая (Marssonina betulae)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Дерматеевые (Dermateaceae)/Марссония березовая (Marssonina betulae)/thumbs/DSC05698_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

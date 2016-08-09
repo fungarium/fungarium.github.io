@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Калоцера роговидная (Calocera cornea)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Калоцера роговидная (Calocera cornea)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004274</title>
+            <link>http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Калоцера роговидная (Calocera cornea)/slides/fungi-0004274.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:54 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Калоцера роговидная (Calocera cornea)/thumbs/fungi-0004274.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Калоцера роговидная (Calocera cornea)/slides/fungi-0004274.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 17 Oct 2010 15:16:24 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004274.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004275</title>
+            <link>http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Калоцера роговидная (Calocera cornea)/slides/fungi-0004275.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:54 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Калоцера роговидная (Calocera cornea)/thumbs/fungi-0004275.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Калоцера роговидная (Calocera cornea)/slides/fungi-0004275.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 17 Oct 2010 15:16:31 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004275.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004319</title>
+            <link>http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Калоцера роговидная (Calocera cornea)/slides/fungi-0004319.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:54 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Калоцера роговидная (Calocera cornea)/thumbs/fungi-0004319.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Калоцера роговидная (Calocera cornea)/slides/fungi-0004319.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 22 Oct 2010 13:06:02 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004319.jpg</guid>
+        </item>
+    </channel>
+</rss>

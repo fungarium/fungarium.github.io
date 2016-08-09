@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ганодермовые (Ganodermataceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Трутовик плоский (Ganoderma applanatum)/album.rss" title="Трутовик плоский (Ganoderma applanatum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Трутовик плоский (Ganoderma applanatum)/thumbs/fungi-0002224.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

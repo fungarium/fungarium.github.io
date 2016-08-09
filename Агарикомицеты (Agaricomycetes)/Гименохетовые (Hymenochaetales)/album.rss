@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гименохетовые (Hymenochaetales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гименохетовые (Hymenochaetales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гименохетовые (Hymenochaetales)/Гименохетовые (Hymenochaetaceae)/album.rss" title="Гименохетовые (Hymenochaetaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гименохетовые (Hymenochaetales)/Гименохетовые (Hymenochaetaceae)/Трутовик скошенный (Inonotus obliquus)/thumbs/DSC03862.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гименохетовые (Hymenochaetales)/Схизопоровые (Schizoporaceae)/album.rss" title="Схизопоровые (Schizoporaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гименохетовые (Hymenochaetales)/Схизопоровые (Schizoporaceae)/Оксипорус тополёвый (Oxyporus populinus)/thumbs/fungi-0003062.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

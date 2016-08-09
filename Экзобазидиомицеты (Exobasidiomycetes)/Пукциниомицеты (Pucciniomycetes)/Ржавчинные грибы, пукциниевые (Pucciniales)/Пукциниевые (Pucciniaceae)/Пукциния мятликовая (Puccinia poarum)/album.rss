@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пукциния мятликовая (Puccinia poarum)</title>
+   	<link>../../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Пукциниомицеты (Pucciniomycetes)/Ржавчинные грибы, пукциниевые (Pucciniales)/Пукциниевые (Pucciniaceae)/Пукциния мятликовая (Puccinia poarum)/</jalbum:absolutePath>
+        <item>
+            <title>DSC00657</title>
+            <link>http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Пукциниомицеты (Pucciniomycetes)/Ржавчинные грибы, пукциниевые (Pucciniales)/Пукциниевые (Pucciniaceae)/Пукциния мятликовая (Puccinia poarum)/slides/DSC00657.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:55 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Пукциниомицеты (Pucciniomycetes)/Ржавчинные грибы, пукциниевые (Pucciniales)/Пукциниевые (Pucciniaceae)/Пукциния мятликовая (Puccinia poarum)/thumbs/DSC00657.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Пукциниомицеты (Pucciniomycetes)/Ржавчинные грибы, пукциниевые (Pucciniales)/Пукциниевые (Pucciniaceae)/Пукциния мятликовая (Puccinia poarum)/slides/DSC00657.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 24 Jun 2014 17:44:17 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00657.JPG</guid>
+        </item>
+    </channel>
+</rss>

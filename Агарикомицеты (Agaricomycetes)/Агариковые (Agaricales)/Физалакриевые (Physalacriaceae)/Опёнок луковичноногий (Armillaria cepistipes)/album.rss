@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Опёнок луковичноногий (Armillaria cepistipes)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Физалакриевые (Physalacriaceae)/Опёнок луковичноногий (Armillaria cepistipes)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004225</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Физалакриевые (Physalacriaceae)/Опёнок луковичноногий (Armillaria cepistipes)/slides/fungi-0004225.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Физалакриевые (Physalacriaceae)/Опёнок луковичноногий (Armillaria cepistipes)/thumbs/fungi-0004225.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Физалакриевые (Physalacriaceae)/Опёнок луковичноногий (Armillaria cepistipes)/slides/fungi-0004225.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 29 Sep 2010 16:10:51 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004225.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004226</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Физалакриевые (Physalacriaceae)/Опёнок луковичноногий (Armillaria cepistipes)/slides/fungi-0004226.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Физалакриевые (Physalacriaceae)/Опёнок луковичноногий (Armillaria cepistipes)/thumbs/fungi-0004226.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Физалакриевые (Physalacriaceae)/Опёнок луковичноногий (Armillaria cepistipes)/slides/fungi-0004226.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 29 Sep 2010 16:11:05 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004226.jpg</guid>
+        </item>
+    </channel>
+</rss>

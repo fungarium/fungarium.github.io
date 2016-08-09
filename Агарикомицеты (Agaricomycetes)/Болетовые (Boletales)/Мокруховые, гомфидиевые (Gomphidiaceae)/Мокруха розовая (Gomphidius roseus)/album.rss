@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Мокруха розовая (Gomphidius roseus)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Мокруховые, гомфидиевые (Gomphidiaceae)/Мокруха розовая (Gomphidius roseus)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004523</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Мокруховые, гомфидиевые (Gomphidiaceae)/Мокруха розовая (Gomphidius roseus)/slides/fungi-0004523.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Мокруховые, гомфидиевые (Gomphidiaceae)/Мокруха розовая (Gomphidius roseus)/thumbs/fungi-0004523.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Мокруховые, гомфидиевые (Gomphidiaceae)/Мокруха розовая (Gomphidius roseus)/slides/fungi-0004523.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 20 Aug 2011 15:28:31 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004523.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0004526</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Мокруховые, гомфидиевые (Gomphidiaceae)/Мокруха розовая (Gomphidius roseus)/slides/fungi-0004526.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:35 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Мокруховые, гомфидиевые (Gomphidiaceae)/Мокруха розовая (Gomphidius roseus)/thumbs/fungi-0004526.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Мокруховые, гомфидиевые (Gomphidiaceae)/Мокруха розовая (Gomphidius roseus)/slides/fungi-0004526.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 20 Aug 2011 15:29:18 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004526.JPG</guid>
+        </item>
+    </channel>
+</rss>

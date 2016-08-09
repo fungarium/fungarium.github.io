@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Чёрный груздь (Lactarius necator)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Чёрный груздь (Lactarius necator)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0003265</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Чёрный груздь (Lactarius necator)/slides/fungi-0003265.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Чёрный груздь (Lactarius necator)/thumbs/fungi-0003265.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Чёрный груздь (Lactarius necator)/slides/fungi-0003265.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 28 Aug 2009 15:24:26 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003265.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0003266</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Чёрный груздь (Lactarius necator)/slides/fungi-0003266.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Чёрный груздь (Lactarius necator)/thumbs/fungi-0003266.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Чёрный груздь (Lactarius necator)/slides/fungi-0003266.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 28 Aug 2009 15:24:34 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003266.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Лисичковые (Cantharellaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/album.rss" title="Вороночник извилистый (Craterellus sinuosus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник извилистый (Craterellus sinuosus)/thumbs/fungi-0000490.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник рожковидный(Craterellus cornucopioides)/album.rss" title="Вороночник рожковидный(Craterellus cornucopioides)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Вороночник рожковидный(Craterellus cornucopioides)/thumbs/fungi-0000488.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Лисичка обыкновенная (Cantharellus cibarius)/album.rss" title="Лисичка обыкновенная (Cantharellus cibarius)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Лисичковые (Cantharellaceae)/Лисичка обыкновенная (Cantharellus cibarius)/thumbs/fungi-0004514.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

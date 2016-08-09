@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Моховик, Маслёнок жёлто-бурый (Suillus variegatus)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Моховик, Маслёнок жёлто-бурый (Suillus variegatus)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0000238</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Моховик, Маслёнок жёлто-бурый (Suillus variegatus)/slides/fungi-0000238.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:34 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Моховик, Маслёнок жёлто-бурый (Suillus variegatus)/thumbs/fungi-0000238.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Моховик, Маслёнок жёлто-бурый (Suillus variegatus)/slides/fungi-0000238.JPG" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0000238.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0003195</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Моховик, Маслёнок жёлто-бурый (Suillus variegatus)/slides/fungi-0003195.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:34 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Моховик, Маслёнок жёлто-бурый (Suillus variegatus)/thumbs/fungi-0003195.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Моховик, Маслёнок жёлто-бурый (Suillus variegatus)/slides/fungi-0003195.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 13 Aug 2009 13:48:25 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003195.JPG</guid>
+        </item>
+    </channel>
+</rss>

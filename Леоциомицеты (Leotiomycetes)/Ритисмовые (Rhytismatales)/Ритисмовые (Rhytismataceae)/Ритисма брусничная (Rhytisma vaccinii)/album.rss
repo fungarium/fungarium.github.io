@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ритисма брусничная (Rhytisma vaccinii)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма брусничная (Rhytisma vaccinii)/</jalbum:absolutePath>
+        <item>
+            <title>DSC05453</title>
+            <link>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма брусничная (Rhytisma vaccinii)/slides/DSC05453.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:52 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма брусничная (Rhytisma vaccinii)/thumbs/DSC05453.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма брусничная (Rhytisma vaccinii)/slides/DSC05453.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 14 Aug 2015 18:55:48 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC05453.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05453_</title>
+            <link>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма брусничная (Rhytisma vaccinii)/slides/DSC05453_.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:52 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма брусничная (Rhytisma vaccinii)/thumbs/DSC05453_.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма брусничная (Rhytisma vaccinii)/slides/DSC05453_.jpg" width="1024" height="863"/>
+            <guid isPermaLink="false">slides/DSC05453_.jpg</guid>
+        </item>
+    </channel>
+</rss>

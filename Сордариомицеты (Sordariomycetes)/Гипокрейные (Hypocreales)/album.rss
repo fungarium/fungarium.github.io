@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гипокрейные (Hypocreales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Гипокрейные (Hypocreaceae)/album.rss" title="Гипокрейные (Hypocreaceae)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Гипокрейные (Hypocreaceae)/Гипомицес кирпично-красный (Hypomyces lateritius)/thumbs/DSC07358_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Кордицепсовые (Cordycipitaceae)/album.rss" title="Кордицепсовые (Cordycipitaceae)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Кордицепсовые (Cordycipitaceae)/Кордицепс военный (Cordyceps militaris)/thumbs/fungi-0003413.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Нектриевые (Nectriaceae)/album.rss" title="Нектриевые (Nectriaceae)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Нектриевые (Nectriaceae)/Нектрия ярко-красная (Nectria coccinea)/thumbs/fungi-0000156.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Офиокордицепсовые (Ophiocordycipitaceae)/album.rss" title="Офиокордицепсовые (Ophiocordycipitaceae)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Офиокордицепсовые (Ophiocordycipitaceae)/Кордицепс офиоглоссовидный (Elaphocordyceps ophioglossoides)/thumbs/fungi-0004693.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

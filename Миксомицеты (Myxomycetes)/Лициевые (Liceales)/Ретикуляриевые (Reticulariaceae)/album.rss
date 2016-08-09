@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ретикуляриевые (Reticulariaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Ретикуляриевые (Reticulariaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Ретикуляриевые (Reticulariaceae)/Ликогала древесинная (Lycogala epidendrum)/album.rss" title="Ликогала древесинная (Lycogala epidendrum)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Ретикуляриевые (Reticulariaceae)/Ликогала древесинная (Lycogala epidendrum)/thumbs/fungi-0003361.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

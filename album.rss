@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Lariushin.ORG Fungi</title>
+   	<link>.</link>
+        <generator>jAlbum 13.3</generator>
+   		<description>Lariushin.ORG Fungarium Photo Collection: Boletes, Toadstools, Agarics, Fungi, Molds and Myxomycetes.</description>
+        <jalbum:absolutePath>http://fungarium.info/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/album.rss" title="Агарикомицеты (Agaricomycetes)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор красный (Amanita muscaria)/thumbs/fungi-0004702.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/album.rss" title="Пецицомицеты (Pezizomycetes)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица изменчивая (Peziza varia)/thumbs/fungi-0003848.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/album.rss" title="Сордариомицеты (Sordariomycetes)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Гипокрейные (Hypocreaceae)/Гипомицес кирпично-красный (Hypomyces lateritius)/thumbs/DSC07358_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Тремелломицеты (Tremellomycetes)/album.rss" title="Тремелломицеты (Tremellomycetes)" thumbnail="http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/Дрожалковые (Tremellaceae)/Дрожалка листоватая (Tremella foliacea)/thumbs/fungi-0004039.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/album.rss" title="Леоциомицеты (Leotiomycetes)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Леоциевые (Leotiaces)/Леоциевые (Leotiaceae)/Леоция скользкая (Leotia lubrica)/thumbs/fungi-0004536.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Дакримицеты (Dacrymycetes)/album.rss" title="Дакримицеты (Dacrymycetes)" thumbnail="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Дакримицес золотистоспоровый (Dacrymyces chrysospermus)/thumbs/fungi-0003773.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/album.rss" title="Экзобазидиомицеты (Exobasidiomycetes)" thumbnail="http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Пукциниомицеты (Pucciniomycetes)/Ржавчинные грибы, пукциниевые (Pucciniales)/Пукциниевые (Pucciniaceae)/Гимноспорангий корнутум (Gymnosporangium cornutum)/thumbs/DSC05539_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/album.rss" title="Тафриномицеты (Taphrinomycetes)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина берёзовая (Taphrina betulina)/thumbs/DSC06625.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/album.rss" title="Дотидеомицеты (Dothideomycetes)" thumbnail="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/Дотидеевые (Dothideales)/Дотидеевые (Dothideaceae)/Стигмина плодовая (Stigmina carpophila)/thumbs/IMG_6386_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Коеломицеты (Coelomycetes)/album.rss" title="Коеломицеты (Coelomycetes)" thumbnail="http://fungarium.info/Коеломицеты (Coelomycetes)/Мелакониевые (Melanconiales)/Мелакониевые (Melanconiaceae)/Гномония красно-устьичная (Gnomonia erythrostoma)/thumbs/IMG_6372_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леканоромицеты (Lecanoromycetes)/album.rss" title="Леканоромицеты (Lecanoromycetes)" thumbnail="http://fungarium.info/Леканоромицеты (Lecanoromycetes)/Леканоровые (Lecanorales)/Биаторелловые (Biatorellaceae)/Биатерелла двухформенная, биатерелловый рак (Biatorella difformis)/thumbs/DSC06218.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/album.rss" title="Миксомицеты (Myxomycetes)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Физаровые (Physarales)/Физаровые (Physaraceae)/Фулиго гнилостный (Fuligo septica)/thumbs/fungi-0000074.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Мицелий (Mycelium)/album.rss" title="Мицелий (Mycelium)" thumbnail="http://fungarium.info/Мицелий (Mycelium)/thumbs/fungi-0003482.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Плесени (Molds)/album.rss" title="Плесени (Molds)" thumbnail="http://fungarium.info/Плесени (Molds)/thumbs/fungi-0002446.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Ведьмины кольца (Fairy rings)/album.rss" title="Ведьмины кольца (Fairy rings)" thumbnail="http://fungarium.info/Ведьмины кольца (Fairy rings)/thumbs/fungi-0003240.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Неопределенные (Unidentified)/album.rss" title="Неопределенные (Unidentified)" thumbnail="http://fungarium.info/Неопределенные (Unidentified)/001/thumbs/DSC06132.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        <item>
+            <title>50-Fungi-Facts</title>
+            <link>http://fungarium.info/50-Fungi-Facts.pdf</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:24 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/res/pdf.png" width="128" height="128"/>
+            <media:content  url="http://fungarium.info/50-Fungi-Facts.pdf" width="128" height="128"/>
+            <jalbum:original url="http://fungarium.info/50-Fungi-Facts.pdf" width="128" height="128" fileSize="41259304"/>
+            <guid isPermaLink="false">res/pdf.png</guid>
+        </item>
+    </channel>
+</rss>

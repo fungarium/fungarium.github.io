@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Стереовые (Stereaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум жестковолосистый (Stereum hirsutum)/album.rss" title="Стереум жестковолосистый (Stereum hirsutum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум жестковолосистый (Stereum hirsutum)/thumbs/fungi-0001516.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

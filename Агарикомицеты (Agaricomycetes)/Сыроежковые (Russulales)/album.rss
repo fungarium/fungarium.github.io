@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Сыроежковые (Russulales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Аурискальпиевые (Auriscalpiaceae)/album.rss" title="Аурискальпиевые (Auriscalpiaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Аурискальпиевые (Auriscalpiaceae)/Аурискальпиум обыкновенный (Auriscalpium vulgare)/thumbs/fungi-0001293.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Герициевые (Hericiaceae)/album.rss" title="Герициевые (Hericiaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Герициевые (Hericiaceae)/Ежевик коралловидный (Hericium coralloides)/thumbs/fungi-0004048.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/album.rss" title="Пениофоровые (Peniophoraceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/Пениофора инкарнатная (Peniophora incarnata)/thumbs/DSC09575.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/album.rss" title="Стереовые (Stereaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум жестковолосистый (Stereum hirsutum)/thumbs/fungi-0001516.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/album.rss" title="Сыроежковые (Russulaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Рыжик настоящий (Lactarius deliciosus)/thumbs/fungi-0000948.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

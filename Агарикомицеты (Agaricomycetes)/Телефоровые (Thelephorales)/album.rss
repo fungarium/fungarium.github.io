@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Телефоровые (Thelephorales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Банкеровые (Bankeraceae)/album.rss" title="Банкеровые (Bankeraceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Банкеровые (Bankeraceae)/Ежовик пёстрый (Sarcodon imbricatus)/thumbs/fungi-0004565.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

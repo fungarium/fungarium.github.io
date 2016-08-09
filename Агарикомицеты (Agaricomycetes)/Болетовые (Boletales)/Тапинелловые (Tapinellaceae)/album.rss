@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Тапинелловые (Tapinellaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Тапинелловые (Tapinellaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Тапинелловые (Tapinellaceae)/Свинушка толстая, войлочная (Tapinella atrotomentosa)/album.rss" title="Свинушка толстая, войлочная (Tapinella atrotomentosa)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Тапинелловые (Tapinellaceae)/Свинушка толстая, войлочная (Tapinella atrotomentosa)/thumbs/DSC05749.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

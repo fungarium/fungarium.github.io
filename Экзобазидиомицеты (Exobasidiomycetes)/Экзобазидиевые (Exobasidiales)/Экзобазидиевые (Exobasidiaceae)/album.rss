@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Экзобазидиевые (Exobasidiaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Экзобазидиевые (Exobasidiales)/Экзобазидиевые (Exobasidiaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Экзобазидиевые (Exobasidiales)/Экзобазидиевые (Exobasidiaceae)/Экзобазидиум брусничный (Exobasidium vaccinii)/album.rss" title="Экзобазидиум брусничный (Exobasidium vaccinii)" thumbnail="http://fungarium.info/Экзобазидиомицеты (Exobasidiomycetes)/Экзобазидиевые (Exobasidiales)/Экзобазидиевые (Exobasidiaceae)/Экзобазидиум брусничный (Exobasidium vaccinii)/thumbs/DSC00658.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

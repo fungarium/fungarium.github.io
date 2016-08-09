@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Трихиевые (Trichiaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Миксомицеты (Myxomycetes)/Трихиевые (Trichiida)/Трихиевые (Trichiaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Трихиевые (Trichiida)/Трихиевые (Trichiaceae)/Арцирия закрытая (Arcyria obvelata)/album.rss" title="Арцирия закрытая (Arcyria obvelata)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Трихиевые (Trichiida)/Трихиевые (Trichiaceae)/Арцирия закрытая (Arcyria obvelata)/thumbs/fungi-0003035.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Трихиевые (Trichiida)/Трихиевые (Trichiaceae)/Арцирия инкарнатная (Arcyria incarnata)/album.rss" title="Арцирия инкарнатная (Arcyria incarnata)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Трихиевые (Trichiida)/Трихиевые (Trichiaceae)/Арцирия инкарнатная (Arcyria incarnata)/thumbs/fungi-0001528.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Трихиевые (Trichiida)/Трихиевые (Trichiaceae)/Гемитрихия почковидная (Hemitrichia calyculata)/album.rss" title="Гемитрихия почковидная (Hemitrichia calyculata)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Трихиевые (Trichiida)/Трихиевые (Trichiaceae)/Гемитрихия почковидная (Hemitrichia calyculata)/thumbs/fungi-0000306.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

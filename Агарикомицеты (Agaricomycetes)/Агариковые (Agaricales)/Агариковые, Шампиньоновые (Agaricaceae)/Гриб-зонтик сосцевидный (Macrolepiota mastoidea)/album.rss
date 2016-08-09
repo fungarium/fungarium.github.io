@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гриб-зонтик сосцевидный (Macrolepiota mastoidea)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Гриб-зонтик сосцевидный (Macrolepiota mastoidea)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02384</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Гриб-зонтик сосцевидный (Macrolepiota mastoidea)/slides/DSC02384.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Гриб-зонтик сосцевидный (Macrolepiota mastoidea)/thumbs/DSC02384.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Гриб-зонтик сосцевидный (Macrolepiota mastoidea)/slides/DSC02384.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 26 Jul 2016 18:04:41 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02384.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02385</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Гриб-зонтик сосцевидный (Macrolepiota mastoidea)/slides/DSC02385.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Гриб-зонтик сосцевидный (Macrolepiota mastoidea)/thumbs/DSC02385.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Гриб-зонтик сосцевидный (Macrolepiota mastoidea)/slides/DSC02385.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Tue, 26 Jul 2016 18:04:53 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02385.JPG</guid>
+        </item>
+        <item>
+            <title>DSC02386</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Гриб-зонтик сосцевидный (Macrolepiota mastoidea)/slides/DSC02386.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:25 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Гриб-зонтик сосцевидный (Macrolepiota mastoidea)/thumbs/DSC02386.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Гриб-зонтик сосцевидный (Macrolepiota mastoidea)/slides/DSC02386.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Tue, 26 Jul 2016 18:05:10 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02386.JPG</guid>
+        </item>
+    </channel>
+</rss>

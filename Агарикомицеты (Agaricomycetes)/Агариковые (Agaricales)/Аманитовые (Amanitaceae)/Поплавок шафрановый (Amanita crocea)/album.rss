@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Поплавок шафрановый (Amanita crocea)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Поплавок шафрановый (Amanita crocea)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004709</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Поплавок шафрановый (Amanita crocea)/slides/fungi-0004709.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Поплавок шафрановый (Amanita crocea)/thumbs/fungi-0004709.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Поплавок шафрановый (Amanita crocea)/slides/fungi-0004709.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 16 Sep 2012 10:40:54 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004709.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0004710</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Поплавок шафрановый (Amanita crocea)/slides/fungi-0004710.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:27 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Поплавок шафрановый (Amanita crocea)/thumbs/fungi-0004710.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Поплавок шафрановый (Amanita crocea)/slides/fungi-0004710.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 16 Sep 2012 10:41:02 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004710.JPG</guid>
+        </item>
+    </channel>
+</rss>

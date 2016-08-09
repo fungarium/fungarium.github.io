@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Полипоровые (Polyporales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/album.rss" title="Ганодермовые (Ganodermataceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Трутовик плоский (Ganoderma applanatum)/thumbs/fungi-0002224.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Мерулиевые (Meruliaceae)/album.rss" title="Мерулиевые (Meruliaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Мерулиевые (Meruliaceae)/Климакодон северный (Climacodon septentrionalis)/thumbs/fungi-0004504.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/album.rss" title="Полипоровые (Polyporaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Трутовик чешуйчатый (Polyporus squamosus)/thumbs/fungi-0003856.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Фанерохетовые (Phanerochaetaceae)/album.rss" title="Фанерохетовые (Phanerochaetaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Фанерохетовые (Phanerochaetaceae)/Ирпекс молочно-белый (Irpex lacteus)/thumbs/fungi-0002804.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Фомитопсисовые (Fomitopsidaceae)/album.rss" title="Фомитопсисовые (Fomitopsidaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Фомитопсисовые (Fomitopsidaceae)/Трутовик серно-жёлтый (Laetiporus sulphureus)/thumbs/fungi-0003153.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

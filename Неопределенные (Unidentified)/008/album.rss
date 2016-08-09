@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>008</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Неопределенные (Unidentified)/008/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0003525</title>
+            <link>http://fungarium.info/Неопределенные (Unidentified)/008/slides/fungi-0003525.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:59 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Неопределенные (Unidentified)/008/thumbs/fungi-0003525.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Неопределенные (Unidentified)/008/slides/fungi-0003525.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 02 Oct 2009 11:03:33 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003525.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0003528</title>
+            <link>http://fungarium.info/Неопределенные (Unidentified)/008/slides/fungi-0003528.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:59 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Неопределенные (Unidentified)/008/thumbs/fungi-0003528.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Неопределенные (Unidentified)/008/slides/fungi-0003528.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 02 Oct 2009 11:03:57 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003528.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0003532</title>
+            <link>http://fungarium.info/Неопределенные (Unidentified)/008/slides/fungi-0003532.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:59 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Неопределенные (Unidentified)/008/thumbs/fungi-0003532.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Неопределенные (Unidentified)/008/slides/fungi-0003532.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 02 Oct 2009 11:05:32 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003532.JPG</guid>
+        </item>
+    </channel>
+</rss>

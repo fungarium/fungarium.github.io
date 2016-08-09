@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Эризифовые, Настоящие Мучнисторосяные (Erysiphales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Эризифовые, Настоящие Мучнисторосяные (Erysiphales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Эризифовые, Настоящие Мучнисторосяные (Erysiphales)/Эризифовые, Настоящие Мучнисторосяные (Erysiphaceae)/album.rss" title="Эризифовые, Настоящие Мучнисторосяные (Erysiphaceae)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Эризифовые, Настоящие Мучнисторосяные (Erysiphales)/Эризифовые, Настоящие Мучнисторосяные (Erysiphaceae)/Эризифе, настоящая мучнистая роса флоксов (Erysiphe cichoracearum)/thumbs/DSC05925.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

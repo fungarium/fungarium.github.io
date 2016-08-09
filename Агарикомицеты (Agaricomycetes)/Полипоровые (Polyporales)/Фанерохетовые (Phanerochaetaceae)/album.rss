@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Фанерохетовые (Phanerochaetaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Фанерохетовые (Phanerochaetaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Фанерохетовые (Phanerochaetaceae)/Ирпекс молочно-белый (Irpex lacteus)/album.rss" title="Ирпекс молочно-белый (Irpex lacteus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Фанерохетовые (Phanerochaetaceae)/Ирпекс молочно-белый (Irpex lacteus)/thumbs/fungi-0002804.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

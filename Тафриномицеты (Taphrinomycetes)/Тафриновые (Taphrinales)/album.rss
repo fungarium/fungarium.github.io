@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Тафриновые (Taphrinales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Протомициевые (Protomycetaceae)/album.rss" title="Протомициевые (Protomycetaceae)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Протомициевые (Protomycetaceae)/Протомицес крупноспоровый (Protomyces macrosporus)/thumbs/DSC00525.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/album.rss" title="Тафриновые (Taphrinaceae)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина берёзовая (Taphrina betulina)/thumbs/DSC06625.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

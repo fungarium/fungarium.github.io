@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гипомицес золотистоспоровый (Hypomyces chrysospermus)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Гипокрейные (Hypocreaceae)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004002</title>
+            <link>http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Гипокрейные (Hypocreaceae)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/slides/fungi-0004002.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:49 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Гипокрейные (Hypocreaceae)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/thumbs/fungi-0004002.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Гипокрейные (Hypocreaceae)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/slides/fungi-0004002.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Fri, 10 Sep 2010 08:02:57 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004002.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004044</title>
+            <link>http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Гипокрейные (Hypocreaceae)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/slides/fungi-0004044.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:49 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Гипокрейные (Hypocreaceae)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/thumbs/fungi-0004044.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Гипокрейные (Hypocreaceae)/Гипомицес золотистоспоровый (Hypomyces chrysospermus)/slides/fungi-0004044.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sun, 12 Sep 2010 17:02:19 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004044.jpg</guid>
+        </item>
+    </channel>
+</rss>

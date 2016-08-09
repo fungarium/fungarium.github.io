@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Неопределенные (Unidentified)</title>
+   	<link>..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Неопределенные (Unidentified)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Неопределенные (Unidentified)/001/album.rss" title="001" thumbnail="http://fungarium.info/Неопределенные (Unidentified)/001/thumbs/DSC06132.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Неопределенные (Unidentified)/002/album.rss" title="002" thumbnail="http://fungarium.info/Неопределенные (Unidentified)/002/thumbs/DSC05561.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Неопределенные (Unidentified)/003/album.rss" title="003" thumbnail="http://fungarium.info/Неопределенные (Unidentified)/003/thumbs/DSC05547.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Неопределенные (Unidentified)/004/album.rss" title="004" thumbnail="http://fungarium.info/Неопределенные (Unidentified)/004/thumbs/DSC05542.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Неопределенные (Unidentified)/006/album.rss" title="006" thumbnail="http://fungarium.info/Неопределенные (Unidentified)/006/thumbs/DSC06139.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Неопределенные (Unidentified)/007/album.rss" title="007" thumbnail="http://fungarium.info/Неопределенные (Unidentified)/007/thumbs/DSC06147.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Неопределенные (Unidentified)/008/album.rss" title="008" thumbnail="http://fungarium.info/Неопределенные (Unidentified)/008/thumbs/fungi-0003525.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

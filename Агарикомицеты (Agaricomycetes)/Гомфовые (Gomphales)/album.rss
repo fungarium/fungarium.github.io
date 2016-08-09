@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гомфовые (Gomphales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/album.rss" title="Гомфовые (Gomphaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/Рогатик, рамария еловый (Ramaria abietina)/thumbs/DSC07245.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Клавариадельфовые (Clavariadelphaceae)/album.rss" title="Клавариадельфовые (Clavariadelphaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Клавариадельфовые (Clavariadelphaceae)/Рогатик пестиковый (Clavariadelphus pistillaris)/thumbs/fungi-0000069.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

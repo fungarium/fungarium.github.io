@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Миценовых (Mycenaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Миценовых (Mycenaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Миценовых (Mycenaceae)/Панеллюс поздний (Panellus serotinus)/album.rss" title="Панеллюс поздний (Panellus serotinus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Миценовых (Mycenaceae)/Панеллюс поздний (Panellus serotinus)/thumbs/fungi-0001556.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

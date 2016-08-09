@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Гумария полушаровидная (Humaria hemisphaerica)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004018</title>
+            <link>http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/slides/fungi-0004018.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/thumbs/fungi-0004018.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/slides/fungi-0004018.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 10 Sep 2010 08:20:53 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004018.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004136</title>
+            <link>http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/slides/fungi-0004136.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:48 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/thumbs/fungi-0004136.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/slides/fungi-0004136.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 22 Sep 2010 16:55:28 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004136.jpg</guid>
+        </item>
+    </channel>
+</rss>

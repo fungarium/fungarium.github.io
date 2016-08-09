@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ритисмовые (Rhytismataceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Коккомицез зимний (Coccomyces hiemalis)/album.rss" title="Коккомицез зимний (Coccomyces hiemalis)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Коккомицез зимний (Coccomyces hiemalis)/thumbs/DSC05674.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма брусничная (Rhytisma vaccinii)/album.rss" title="Ритисма брусничная (Rhytisma vaccinii)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма брусничная (Rhytisma vaccinii)/thumbs/DSC05453_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма кленовая (Rhytisma acerinum)/album.rss" title="Ритисма кленовая (Rhytisma acerinum)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма кленовая (Rhytisma acerinum)/thumbs/DSC05464_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

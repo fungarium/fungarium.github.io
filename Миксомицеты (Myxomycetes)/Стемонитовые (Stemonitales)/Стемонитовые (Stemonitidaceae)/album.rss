@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Стемонитовые (Stemonitidaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Миксомицеты (Myxomycetes)/Стемонитовые (Stemonitales)/Стемонитовые (Stemonitidaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Стемонитовые (Stemonitales)/Стемонитовые (Stemonitidaceae)/Стемонитис бурый (Stemonitis fusca)/album.rss" title="Стемонитис бурый (Stemonitis fusca)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Стемонитовые (Stemonitales)/Стемонитовые (Stemonitidaceae)/Стемонитис бурый (Stemonitis fusca)/thumbs/fungi-0001971.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

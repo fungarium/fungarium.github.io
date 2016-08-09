@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дрожалковые (Tremellales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/Дрожалковые (Tremellaceae)/album.rss" title="Дрожалковые (Tremellaceae)" thumbnail="http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/Дрожалковые (Tremellaceae)/Дрожалка листоватая (Tremella foliacea)/thumbs/fungi-0004039.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

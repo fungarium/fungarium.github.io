@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дрожалка листоватая (Tremella foliacea)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/Дрожалковые (Tremellaceae)/Дрожалка листоватая (Tremella foliacea)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004038</title>
+            <link>http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/Дрожалковые (Tremellaceae)/Дрожалка листоватая (Tremella foliacea)/slides/fungi-0004038.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:50 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/Дрожалковые (Tremellaceae)/Дрожалка листоватая (Tremella foliacea)/thumbs/fungi-0004038.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/Дрожалковые (Tremellaceae)/Дрожалка листоватая (Tremella foliacea)/slides/fungi-0004038.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 12 Sep 2010 16:59:52 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004038.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004039</title>
+            <link>http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/Дрожалковые (Tremellaceae)/Дрожалка листоватая (Tremella foliacea)/slides/fungi-0004039.jpg</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:50 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/Дрожалковые (Tremellaceae)/Дрожалка листоватая (Tremella foliacea)/thumbs/fungi-0004039.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Тремелломицеты (Tremellomycetes)/Дрожалковые (Tremellales)/Дрожалковые (Tremellaceae)/Дрожалка листоватая (Tremella foliacea)/slides/fungi-0004039.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 12 Sep 2010 17:00:01 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004039.jpg</guid>
+        </item>
+    </channel>
+</rss>

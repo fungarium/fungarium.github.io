@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Сыроежка розовоножковая (Russula rhodopus)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.3</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Сыроежка розовоножковая (Russula rhodopus)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004538</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Сыроежка розовоножковая (Russula rhodopus)/slides/fungi-0004538.JPG</link>
+            <pubDate>Tue, 09 Aug 2016 19:06:45 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Сыроежка розовоножковая (Russula rhodopus)/thumbs/fungi-0004538.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Сыроежковые (Russulaceae)/Сыроежка розовоножковая (Russula rhodopus)/slides/fungi-0004538.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 20 Aug 2011 16:04:25 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004538.JPG</guid>
+        </item>
+    </channel>
+</rss>
