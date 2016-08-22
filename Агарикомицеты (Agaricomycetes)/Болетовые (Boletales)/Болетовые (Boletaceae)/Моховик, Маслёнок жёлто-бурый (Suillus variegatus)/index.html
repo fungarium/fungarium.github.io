@@ -157,7 +157,7 @@
 		initMobile();
 	});
 	if(location.protocol!=='file:') {
-		Modernizr.load({load:['https://platform.tumblr.com/v1/share.js','http://fungarium.disqus.com/embed.js','http://assets.pinterest.com/js/pinit','https://connect.facebook.net/en_US/sdk#xfbml=1&appId=888791411157518&version=v2.0'],complete:function(){fixFbComments('index.html');}});
+		Modernizr.load({load:['https://platform.tumblr.com/v1/share.js','https://fungarium.disqus.com/embed.js','https://assets.pinterest.com/js/pinit','https://connect.facebook.net/en_US/sdk#xfbml=1&appId=888791411157518&version=v2.0'],complete:function(){fixFbComments('index.html');}});
 		setTimeout(function(){$.ajax({url:'https://apis.google.com/js/plusone',dataType:'script',parameters:{parsetags:'explicit'}});},500);
 	}
 	
