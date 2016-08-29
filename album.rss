@@ -5,7 +5,7 @@
     <channel>
         <title>Lariushin.ORG Fungi</title>
    	<link>.</link>
-        <generator>jAlbum 13.3</generator>
+        <generator>jAlbum 13.4</generator>
    		<description>Lariushin.ORG Fungarium Photo Collection: Boletes, Toadstools, Agarics, Fungi, Molds and Myxomycetes.</description>
         <jalbum:absolutePath>http://fungarium.info/</jalbum:absolutePath>
     	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/album.rss" title="Агарикомицеты (Agaricomycetes)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор красный (Amanita muscaria)/thumbs/fungi-0004702.JPG" thumbnailWidth="180" thumbnailHeight="180" />
@@ -19,6 +19,7 @@
     	<jalbum:link rel="sub" href="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/album.rss" title="Дотидеомицеты (Dothideomycetes)" thumbnail="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/Дотидеевые (Dothideales)/Дотидеевые (Dothideaceae)/Стигмина плодовая (Stigmina carpophila)/thumbs/IMG_6386_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
     	<jalbum:link rel="sub" href="http://fungarium.info/Коеломицеты (Coelomycetes)/album.rss" title="Коеломицеты (Coelomycetes)" thumbnail="http://fungarium.info/Коеломицеты (Coelomycetes)/Мелакониевые (Melanconiales)/Мелакониевые (Melanconiaceae)/Гномония красно-устьичная (Gnomonia erythrostoma)/thumbs/IMG_6372_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
     	<jalbum:link rel="sub" href="http://fungarium.info/Леканоромицеты (Lecanoromycetes)/album.rss" title="Леканоромицеты (Lecanoromycetes)" thumbnail="http://fungarium.info/Леканоромицеты (Lecanoromycetes)/Леканоровые (Lecanorales)/Биаторелловые (Biatorellaceae)/Биатерелла двухформенная, биатерелловый рак (Biatorella difformis)/thumbs/DSC06218.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Зигомицеты (Zygomycetes)/album.rss" title="Зигомицеты (Zygomycetes)" thumbnail="http://fungarium.info/Зигомицеты (Zygomycetes)/Мукоровые (Mucorales)/Фикомицетовые (Phycomycetaceae)/Спинеллюс фузигер (Spinellus fusiger)/thumbs/fungi-0004198.jpg" thumbnailWidth="180" thumbnailHeight="180" />
     	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/album.rss" title="Миксомицеты (Myxomycetes)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Физаровые (Physarales)/Физаровые (Physaraceae)/Фулиго гнилостный (Fuligo septica)/thumbs/fungi-0000074.JPG" thumbnailWidth="180" thumbnailHeight="180" />
     	<jalbum:link rel="sub" href="http://fungarium.info/Мицелий (Mycelium)/album.rss" title="Мицелий (Mycelium)" thumbnail="http://fungarium.info/Мицелий (Mycelium)/thumbs/fungi-0003482.JPG" thumbnailWidth="180" thumbnailHeight="180" />
     	<jalbum:link rel="sub" href="http://fungarium.info/Плесени (Molds)/album.rss" title="Плесени (Molds)" thumbnail="http://fungarium.info/Плесени (Molds)/thumbs/fungi-0002446.JPG" thumbnailWidth="180" thumbnailHeight="180" />
@@ -27,7 +28,7 @@
         <item>
             <title>50-Fungi-Facts</title>
             <link>http://fungarium.info/50-Fungi-Facts.pdf</link>
-            <pubDate>Thu, 25 Aug 2016 02:35:36 +0300</pubDate>
+            <pubDate>Tue, 30 Aug 2016 02:27:50 +0300</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="http://fungarium.info/res/pdf.png" width="128" height="128"/>

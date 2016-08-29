@@ -5,7 +5,7 @@
     <channel>
         <title>Полипоровые (Polyporaceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.3</generator>
+        <generator>jAlbum 13.4</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/</jalbum:absolutePath>
     	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Дедалеопсис северный (Daedaleopsis septentrionalis)/album.rss" title="Дедалеопсис северный (Daedaleopsis septentrionalis)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Дедалеопсис северный (Daedaleopsis septentrionalis)/thumbs/fungi-0004497.jpg" thumbnailWidth="180" thumbnailHeight="180" />
@@ -16,6 +16,7 @@
     	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Трутовик, Трихаптум еловый (Trichaptum abietinum)/album.rss" title="Трутовик, Трихаптум еловый (Trichaptum abietinum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Трутовик, Трихаптум еловый (Trichaptum abietinum)/thumbs/fungi-0003679.JPG" thumbnailWidth="180" thumbnailHeight="180" />
     	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Трутовик киноварно-красный (Pycnoporus cinnabarinus)/album.rss" title="Трутовик киноварно-красный (Pycnoporus cinnabarinus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Трутовик киноварно-красный (Pycnoporus cinnabarinus)/thumbs/fungi-0003348_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
     	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Трутовик, траметес жёстковолосистый (Trametes hirsuta)/album.rss" title="Трутовик, траметес жёстковолосистый (Trametes hirsuta)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Трутовик, траметес жёстковолосистый (Trametes hirsuta)/thumbs/DSC07463.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Церрена одноцветная (Cerrena unicolor)/album.rss" title="Церрена одноцветная (Cerrena unicolor)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Полипоровые (Polyporaceae)/Церрена одноцветная (Cerrena unicolor)/thumbs/DSC02905.JPG" thumbnailWidth="180" thumbnailHeight="180" />
         
     </channel>
 </rss>

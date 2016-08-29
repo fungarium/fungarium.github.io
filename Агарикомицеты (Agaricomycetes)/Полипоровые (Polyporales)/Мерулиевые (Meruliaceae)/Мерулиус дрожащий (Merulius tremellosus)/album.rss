@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Мерулиус дрожащий (Merulius tremellosus)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.4</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Мерулиевые (Meruliaceae)/Мерулиус дрожащий (Merulius tremellosus)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0003400</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Мерулиевые (Meruliaceae)/Мерулиус дрожащий (Merulius tremellosus)/slides/fungi-0003400.JPG</link>
+            <pubDate>Tue, 30 Aug 2016 02:28:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Мерулиевые (Meruliaceae)/Мерулиус дрожащий (Merulius tremellosus)/thumbs/fungi-0003400.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Мерулиевые (Meruliaceae)/Мерулиус дрожащий (Merulius tremellosus)/slides/fungi-0003400.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 25 Sep 2009 11:19:59 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003400.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0003401</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Мерулиевые (Meruliaceae)/Мерулиус дрожащий (Merulius tremellosus)/slides/fungi-0003401.JPG</link>
+            <pubDate>Tue, 30 Aug 2016 02:28:56 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Мерулиевые (Meruliaceae)/Мерулиус дрожащий (Merulius tremellosus)/thumbs/fungi-0003401.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Мерулиевые (Meruliaceae)/Мерулиус дрожащий (Merulius tremellosus)/slides/fungi-0003401.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 25 Sep 2009 11:20:18 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003401.JPG</guid>
+        </item>
+    </channel>
+</rss>

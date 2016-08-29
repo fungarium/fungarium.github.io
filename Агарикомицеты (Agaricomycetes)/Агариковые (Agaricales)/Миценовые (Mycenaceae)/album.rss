@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Миценовые (Mycenaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.4</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Миценовые (Mycenaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Миценовые (Mycenaceae)/Мицена чистая (Mycena pura)/album.rss" title="Мицена чистая (Mycena pura)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Миценовые (Mycenaceae)/Мицена чистая (Mycena pura)/thumbs/fungolore_03942_4085761946_o.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Миценовые (Mycenaceae)/Панеллюс поздний (Panellus serotinus)/album.rss" title="Панеллюс поздний (Panellus serotinus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Миценовые (Mycenaceae)/Панеллюс поздний (Panellus serotinus)/thumbs/fungi-0001556.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Миценовые (Mycenaceae)/Роридомицес росистый (Roridomyces roridus)/album.rss" title="Роридомицес росистый (Roridomyces roridus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Миценовые (Mycenaceae)/Роридомицес росистый (Roridomyces roridus)/thumbs/3984272618_45a4bc6b4a_o.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

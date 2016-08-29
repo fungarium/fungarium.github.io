@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Козляк, решетник (Suillus bovinus)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.4</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02997</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/slides/DSC02997.JPG</link>
+            <pubDate>Tue, 30 Aug 2016 02:28:40 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/thumbs/DSC02997.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/slides/DSC02997.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 27 Aug 2016 19:31:49 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02997.JPG</guid>
+        </item>
+        <item>
+            <title>DSC03001</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/slides/DSC03001.JPG</link>
+            <pubDate>Tue, 30 Aug 2016 02:28:40 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/thumbs/DSC03001.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/slides/DSC03001.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 27 Aug 2016 19:36:58 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03001.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0003345</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/slides/fungi-0003345.JPG</link>
+            <pubDate>Tue, 30 Aug 2016 02:28:40 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/thumbs/fungi-0003345.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/slides/fungi-0003345.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 19 Sep 2009 12:41:16 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003345.JPG</guid>
+        </item>
+        <item>
+            <title>fungi-0003346</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/slides/fungi-0003346.JPG</link>
+            <pubDate>Tue, 30 Aug 2016 02:28:40 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/thumbs/fungi-0003346.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Козляк, решетник (Suillus bovinus)/slides/fungi-0003346.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 19 Sep 2009 12:41:21 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003346.JPG</guid>
+        </item>
+    </channel>
+</rss>

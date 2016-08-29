@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Цибория аментацея (Ciboria amentacea)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.4</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Склеротиниевые (Sclerotiniaceae)/Цибория аментацея (Ciboria amentacea)/</jalbum:absolutePath>
+        <item>
+            <title>3983875069_f0b0ea79cd_o</title>
+            <link>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Склеротиниевые (Sclerotiniaceae)/Цибория аментацея (Ciboria amentacea)/slides/3983875069_f0b0ea79cd_o.jpg</link>
+            <pubDate>Tue, 30 Aug 2016 02:29:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Склеротиниевые (Sclerotiniaceae)/Цибория аментацея (Ciboria amentacea)/thumbs/3983875069_f0b0ea79cd_o.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Склеротиниевые (Sclerotiniaceae)/Цибория аментацея (Ciboria amentacea)/slides/3983875069_f0b0ea79cd_o.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/3983875069_f0b0ea79cd_o.jpg</guid>
+        </item>
+        <item>
+            <title>3984628640_d3c3186aef_o</title>
+            <link>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Склеротиниевые (Sclerotiniaceae)/Цибория аментацея (Ciboria amentacea)/slides/3984628640_d3c3186aef_o.jpg</link>
+            <pubDate>Tue, 30 Aug 2016 02:29:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Склеротиниевые (Sclerotiniaceae)/Цибория аментацея (Ciboria amentacea)/thumbs/3984628640_d3c3186aef_o.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Склеротиниевые (Sclerotiniaceae)/Цибория аментацея (Ciboria amentacea)/slides/3984628640_d3c3186aef_o.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/3984628640_d3c3186aef_o.jpg</guid>
+        </item>
+    </channel>
+</rss>

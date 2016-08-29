@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Мукоровые (Mucorales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.4</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Зигомицеты (Zygomycetes)/Мукоровые (Mucorales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Зигомицеты (Zygomycetes)/Мукоровые (Mucorales)/Фикомицетовые (Phycomycetaceae)/album.rss" title="Фикомицетовые (Phycomycetaceae)" thumbnail="http://fungarium.info/Зигомицеты (Zygomycetes)/Мукоровые (Mucorales)/Фикомицетовые (Phycomycetaceae)/Спинеллюс фузигер (Spinellus fusiger)/thumbs/fungi-0004198.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>
