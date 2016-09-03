@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Мухомор вонючий, белая поганка (Amanita virosa)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.4</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор вонючий, белая поганка (Amanita virosa)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004137</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор вонючий, белая поганка (Amanita virosa)/slides/fungi-0004137.jpg</link>
+            <pubDate>Sat, 03 Sep 2016 02:51:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор вонючий, белая поганка (Amanita virosa)/thumbs/fungi-0004137.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор вонючий, белая поганка (Amanita virosa)/slides/fungi-0004137.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Thu, 23 Sep 2010 13:16:10 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004137.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004138</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор вонючий, белая поганка (Amanita virosa)/slides/fungi-0004138.jpg</link>
+            <pubDate>Sat, 03 Sep 2016 02:51:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор вонючий, белая поганка (Amanita virosa)/thumbs/fungi-0004138.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор вонючий, белая поганка (Amanita virosa)/slides/fungi-0004138.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 23 Sep 2010 13:16:27 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004138.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0004218</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор вонючий, белая поганка (Amanita virosa)/slides/fungi-0004218.jpg</link>
+            <pubDate>Sat, 03 Sep 2016 02:51:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор вонючий, белая поганка (Amanita virosa)/thumbs/fungi-0004218.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор вонючий, белая поганка (Amanita virosa)/slides/fungi-0004218.jpg" width="768" height="1024"/>
+            <jalbum:exif originalDate="Wed, 29 Sep 2010 16:04:42 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004218.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Мухомор порфировый (Amanita porphyria)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.4</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0004548</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/slides/fungi-0004548.JPG</link>
+            <pubDate>Sat, 03 Sep 2016 02:51:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/thumbs/fungi-0004548.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/slides/fungi-0004548.JPG" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 03 Sep 2011 15:50:00 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0004548.JPG</guid>
+        </item>
+    </channel>
+</rss>

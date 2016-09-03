@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Паутинник шафрановый (Cortinarius croceus)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.4</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Паутинниковые, Кортинариевые (Cortinariaceae)/Паутинник шафрановый (Cortinarius croceus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC07255</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Паутинниковые, Кортинариевые (Cortinariaceae)/Паутинник шафрановый (Cortinarius croceus)/slides/DSC07255.JPG</link>
+            <pubDate>Sat, 03 Sep 2016 02:52:00 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Паутинниковые, Кортинариевые (Cortinariaceae)/Паутинник шафрановый (Cortinarius croceus)/thumbs/DSC07255.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Паутинниковые, Кортинариевые (Cortinariaceae)/Паутинник шафрановый (Cortinarius croceus)/slides/DSC07255.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 26 Sep 2015 11:15:23 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC07255.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07256</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Паутинниковые, Кортинариевые (Cortinariaceae)/Паутинник шафрановый (Cortinarius croceus)/slides/DSC07256.JPG</link>
+            <pubDate>Sat, 03 Sep 2016 02:52:00 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Паутинниковые, Кортинариевые (Cortinariaceae)/Паутинник шафрановый (Cortinarius croceus)/thumbs/DSC07256.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Паутинниковые, Кортинариевые (Cortinariaceae)/Паутинник шафрановый (Cortinarius croceus)/slides/DSC07256.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 26 Sep 2015 11:15:40 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC07256.JPG</guid>
+        </item>
+        <item>
+            <title>DSC07257</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Паутинниковые, Кортинариевые (Cortinariaceae)/Паутинник шафрановый (Cortinarius croceus)/slides/DSC07257.JPG</link>
+            <pubDate>Sat, 03 Sep 2016 02:52:00 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Паутинниковые, Кортинариевые (Cortinariaceae)/Паутинник шафрановый (Cortinarius croceus)/thumbs/DSC07257.JPG" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Паутинниковые, Кортинариевые (Cortinariaceae)/Паутинник шафрановый (Cortinarius croceus)/slides/DSC07257.JPG" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 26 Sep 2015 11:15:51 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC07257.JPG</guid>
+        </item>
+    </channel>
+</rss>
