@@ -24,17 +24,6 @@
     	<jalbum:link rel="sub" href="http://fungarium.info/Мицелий (Mycelium)/album.rss" title="Мицелий (Mycelium)" thumbnail="http://fungarium.info/Мицелий (Mycelium)/thumbs/fungi-0003482.JPG" thumbnailWidth="180" thumbnailHeight="180" />
     	<jalbum:link rel="sub" href="http://fungarium.info/Плесени (Molds)/album.rss" title="Плесени (Molds)" thumbnail="http://fungarium.info/Плесени (Molds)/thumbs/fungi-0002446.JPG" thumbnailWidth="180" thumbnailHeight="180" />
     	<jalbum:link rel="sub" href="http://fungarium.info/Ведьмины кольца (Fairy rings)/album.rss" title="Ведьмины кольца (Fairy rings)" thumbnail="http://fungarium.info/Ведьмины кольца (Fairy rings)/thumbs/fungi-0003240.JPG" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Неопределенные (Unidentified)/album.rss" title="Неопределенные (Unidentified)" thumbnail="http://fungarium.info/Неопределенные (Unidentified)/001/thumbs/DSC06132.JPG" thumbnailWidth="180" thumbnailHeight="180" />
-        <item>
-            <title>50-Fungi-Facts</title>
-            <link>http://fungarium.info/50-Fungi-Facts.pdf</link>
-            <pubDate>Sat, 03 Sep 2016 19:41:36 +0300</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="http://fungarium.info/res/pdf.png" width="128" height="128"/>
-            <media:content  url="http://fungarium.info/50-Fungi-Facts.pdf" width="128" height="128"/>
-            <jalbum:original url="http://fungarium.info/50-Fungi-Facts.pdf" width="128" height="128" fileSize="41259304"/>
-            <guid isPermaLink="false">res/pdf.png</guid>
-        </item>
+        
     </channel>
 </rss>

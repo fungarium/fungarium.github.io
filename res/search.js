@@ -9,7 +9,7 @@ Search={
 	sep:'-!-'
 };
 Search.data=[
-	[ '', [ '50-Fungi-Facts.pdf:png-!--!-50-Fungi-Facts-!--!--!-0' ] ],
+	[ '', [  ] ],
 	[ 'Агарикомицеты (Agaricomycetes)', [ 'index.html-!-Агарикомицеты (Agaricomycetes)-!--!-' ] ],
 	[ 'Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)', [ 'index.html-!-Агариковые (Agaricales)-!--!-' ] ],
 	[ 'Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)', [ 'index.html-!-Агариковые, Шампиньоновые (Agaricaceae)-!--!-' ] ],
