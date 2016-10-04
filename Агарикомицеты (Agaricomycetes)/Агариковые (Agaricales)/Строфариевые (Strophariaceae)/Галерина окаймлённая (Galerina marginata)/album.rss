@@ -5,13 +5,13 @@
     <channel>
         <title>Галерина окаймлённая (Galerina marginata)</title>
    	<link>../../../..</link>
-        <generator>jAlbum 13.4</generator>
+        <generator>jAlbum 13.5</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/</jalbum:absolutePath>
         <item>
             <title>Clipboard01</title>
             <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/slides/Clipboard01.jpg</link>
-            <pubDate>Sat, 01 Oct 2016 23:28:06 +0300</pubDate>
+            <pubDate>Tue, 04 Oct 2016 23:57:04 +0300</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/thumbs/Clipboard01.jpg" width="180" height="180"/>
@@ -20,25 +20,25 @@
         </item>
         <item>
             <title>fungi-0000066</title>
-            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/slides/fungi-0000066.JPG</link>
-            <pubDate>Sat, 01 Oct 2016 23:28:06 +0300</pubDate>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/slides/fungi-0000066.jpg</link>
+            <pubDate>Tue, 04 Oct 2016 23:57:04 +0300</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/thumbs/fungi-0000066.JPG" width="180" height="180"/>
-            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/slides/fungi-0000066.JPG" width="1024" height="768"/>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/thumbs/fungi-0000066.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/slides/fungi-0000066.jpg" width="1024" height="768"/>
             <jalbum:exif originalDate="Sat, 13 Sep 2014 13:50:31 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
-            <guid isPermaLink="false">slides/fungi-0000066.JPG</guid>
+            <guid isPermaLink="false">slides/fungi-0000066.jpg</guid>
         </item>
         <item>
             <title>fungi-0000067</title>
-            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/slides/fungi-0000067.JPG</link>
-            <pubDate>Sat, 01 Oct 2016 23:28:06 +0300</pubDate>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/slides/fungi-0000067.jpg</link>
+            <pubDate>Tue, 04 Oct 2016 23:57:04 +0300</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/thumbs/fungi-0000067.JPG" width="180" height="180"/>
-            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/slides/fungi-0000067.JPG" width="1024" height="768"/>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/thumbs/fungi-0000067.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Строфариевые (Strophariaceae)/Галерина окаймлённая (Galerina marginata)/slides/fungi-0000067.jpg" width="1024" height="768"/>
             <jalbum:exif originalDate="Sat, 13 Sep 2014 13:50:41 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
-            <guid isPermaLink="false">slides/fungi-0000067.JPG</guid>
+            <guid isPermaLink="false">slides/fungi-0000067.jpg</guid>
         </item>
     </channel>
 </rss>

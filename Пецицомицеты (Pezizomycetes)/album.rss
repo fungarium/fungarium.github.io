@@ -5,10 +5,10 @@
     <channel>
         <title>Пецицомицеты (Pezizomycetes)</title>
    	<link>..</link>
-        <generator>jAlbum 13.4</generator>
+        <generator>jAlbum 13.5</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Пецицомицеты (Pezizomycetes)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/album.rss" title="Пецицевые (Pezizales)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица изменчивая (Peziza varia)/thumbs/fungi-0003848.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/album.rss" title="Пецицевые (Pezizales)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица изменчивая (Peziza varia)/thumbs/fungi-0003848.jpg" thumbnailWidth="180" thumbnailHeight="180" />
         
     </channel>
 </rss>

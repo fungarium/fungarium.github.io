@@ -5,13 +5,13 @@
     <channel>
         <title>Леоциомицеты (Leotiomycetes)</title>
    	<link>..</link>
-        <generator>jAlbum 13.4</generator>
+        <generator>jAlbum 13.5</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Леоциомицеты (Leotiomycetes)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/album.rss" title="Гелоциевые (Helotiales)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Гелоциевые (Helotiaceae)/Биспорелла лимонная (Bisporella citrina)/thumbs/DSC03753.JPG" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Леоциевые (Leotiaces)/album.rss" title="Леоциевые (Leotiaces)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Леоциевые (Leotiaces)/Леоциевые (Leotiaceae)/Леоция скользкая (Leotia lubrica)/thumbs/fungi-0004536.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/album.rss" title="Гелоциевые (Helotiales)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Гелоциевые (Helotiaceae)/Биспорелла лимонная (Bisporella citrina)/thumbs/DSC03753.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Леоциевые (Leotiaces)/album.rss" title="Леоциевые (Leotiaces)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Леоциевые (Leotiaces)/Леоциевые (Leotiaceae)/Леоция скользкая (Leotia lubrica)/thumbs/fungi-0004536.jpg" thumbnailWidth="180" thumbnailHeight="180" />
     	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/album.rss" title="Ритисмовые (Rhytismatales)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма кленовая (Rhytisma acerinum)/thumbs/DSC05464_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Эризифовые, Настоящие Мучнисторосяные (Erysiphales)/album.rss" title="Эризифовые, Настоящие Мучнисторосяные (Erysiphales)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Эризифовые, Настоящие Мучнисторосяные (Erysiphales)/Эризифовые, Настоящие Мучнисторосяные (Erysiphaceae)/Савадея Тюляня(Sawadaea tulasnei)/thumbs/DSC03977.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Эризифовые, Настоящие Мучнисторосяные (Erysiphales)/album.rss" title="Эризифовые, Настоящие Мучнисторосяные (Erysiphales)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Эризифовые, Настоящие Мучнисторосяные (Erysiphales)/Эризифовые, Настоящие Мучнисторосяные (Erysiphaceae)/Савадея Тюляня(Sawadaea tulasnei)/thumbs/DSC03977.jpg" thumbnailWidth="180" thumbnailHeight="180" />
         
     </channel>
 </rss>

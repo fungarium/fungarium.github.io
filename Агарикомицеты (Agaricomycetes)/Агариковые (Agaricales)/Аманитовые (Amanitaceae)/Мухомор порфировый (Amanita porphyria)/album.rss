@@ -5,19 +5,19 @@
     <channel>
         <title>Мухомор порфировый (Amanita porphyria)</title>
    	<link>../../../..</link>
-        <generator>jAlbum 13.4</generator>
+        <generator>jAlbum 13.5</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/</jalbum:absolutePath>
         <item>
             <title>fungi-0004548</title>
-            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/slides/fungi-0004548.JPG</link>
-            <pubDate>Sat, 01 Oct 2016 23:28:00 +0300</pubDate>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/slides/fungi-0004548.jpg</link>
+            <pubDate>Tue, 04 Oct 2016 23:56:57 +0300</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/thumbs/fungi-0004548.JPG" width="180" height="180"/>
-            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/slides/fungi-0004548.JPG" width="768" height="1024"/>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/thumbs/fungi-0004548.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Аманитовые (Amanitaceae)/Мухомор порфировый (Amanita porphyria)/slides/fungi-0004548.jpg" width="768" height="1024"/>
             <jalbum:exif originalDate="Sat, 03 Sep 2011 15:50:00 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
-            <guid isPermaLink="false">slides/fungi-0004548.JPG</guid>
+            <guid isPermaLink="false">slides/fungi-0004548.jpg</guid>
         </item>
     </channel>
 </rss>

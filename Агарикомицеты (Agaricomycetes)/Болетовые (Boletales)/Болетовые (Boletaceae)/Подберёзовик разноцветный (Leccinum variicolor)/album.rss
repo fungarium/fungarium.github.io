@@ -5,19 +5,19 @@
     <channel>
         <title>Подберёзовик разноцветный (Leccinum variicolor)</title>
    	<link>../../../..</link>
-        <generator>jAlbum 13.4</generator>
+        <generator>jAlbum 13.5</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик разноцветный (Leccinum variicolor)/</jalbum:absolutePath>
         <item>
             <title>fungi-0000018</title>
-            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик разноцветный (Leccinum variicolor)/slides/fungi-0000018.JPG</link>
-            <pubDate>Sat, 01 Oct 2016 23:28:10 +0300</pubDate>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик разноцветный (Leccinum variicolor)/slides/fungi-0000018.jpg</link>
+            <pubDate>Tue, 04 Oct 2016 23:57:08 +0300</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик разноцветный (Leccinum variicolor)/thumbs/fungi-0000018.JPG" width="180" height="180"/>
-            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик разноцветный (Leccinum variicolor)/slides/fungi-0000018.JPG" width="768" height="1024"/>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик разноцветный (Leccinum variicolor)/thumbs/fungi-0000018.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик разноцветный (Leccinum variicolor)/slides/fungi-0000018.jpg" width="768" height="1024"/>
             <jalbum:exif originalDate="Sat, 13 Sep 2014 11:53:05 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
-            <guid isPermaLink="false">slides/fungi-0000018.JPG</guid>
+            <guid isPermaLink="false">slides/fungi-0000018.jpg</guid>
         </item>
     </channel>
 </rss>

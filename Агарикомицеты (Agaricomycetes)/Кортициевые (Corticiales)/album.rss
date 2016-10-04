@@ -5,10 +5,10 @@
     <channel>
         <title>Кортициевые (Corticiales)</title>
    	<link>../..</link>
-        <generator>jAlbum 13.4</generator>
+        <generator>jAlbum 13.5</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/album.rss" title="Кортициевые (Corticialeae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/Кортициум розовый (Laeticorticium roseum)/thumbs/DSC09575.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/album.rss" title="Кортициевые (Corticialeae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Кортициевые (Corticiales)/Кортициевые (Corticialeae)/Кортициум розовый (Laeticorticium roseum)/thumbs/DSC09575.jpg" thumbnailWidth="180" thumbnailHeight="180" />
         
     </channel>
 </rss>

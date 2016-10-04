@@ -5,18 +5,18 @@
     <channel>
         <title>Подберёзовик розовеющий (Leccinum oxydabile)</title>
    	<link>../../../..</link>
-        <generator>jAlbum 13.4</generator>
+        <generator>jAlbum 13.5</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик розовеющий (Leccinum oxydabile)/</jalbum:absolutePath>
         <item>
             <title>fungi-0000189</title>
-            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик розовеющий (Leccinum oxydabile)/slides/fungi-0000189.JPG</link>
-            <pubDate>Sat, 01 Oct 2016 23:28:10 +0300</pubDate>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик розовеющий (Leccinum oxydabile)/slides/fungi-0000189.jpg</link>
+            <pubDate>Tue, 04 Oct 2016 23:57:08 +0300</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик розовеющий (Leccinum oxydabile)/thumbs/fungi-0000189.JPG" width="180" height="180"/>
-            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик розовеющий (Leccinum oxydabile)/slides/fungi-0000189.JPG" width="1024" height="768"/>
-            <guid isPermaLink="false">slides/fungi-0000189.JPG</guid>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик розовеющий (Leccinum oxydabile)/thumbs/fungi-0000189.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Болетовые (Boletaceae)/Подберёзовик розовеющий (Leccinum oxydabile)/slides/fungi-0000189.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/fungi-0000189.jpg</guid>
         </item>
     </channel>
 </rss>

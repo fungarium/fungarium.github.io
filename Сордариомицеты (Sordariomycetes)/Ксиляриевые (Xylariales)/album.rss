@@ -5,11 +5,11 @@
     <channel>
         <title>Ксиляриевые (Xylariales)</title>
    	<link>../..</link>
-        <generator>jAlbum 13.4</generator>
+        <generator>jAlbum 13.5</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/</jalbum:absolutePath>
     	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Диатриповые (Diatrypaceae)/album.rss" title="Диатриповые (Diatrypaceae)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Диатриповые (Diatrypaceae)/Диатрипелла бородавчатая (Diatrypella verruciformis)/thumbs/fungi-0004271.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Ксиляриевые (Xylariaceae)/album.rss" title="Ксиляриевые (Xylariaceae)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Ксиляриевые (Xylariaceae)/Аннулогипоксилон многообразный (Annulohypoxylon multiforme)/thumbs/fungi-0003033.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Ксиляриевые (Xylariaceae)/album.rss" title="Ксиляриевые (Xylariaceae)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Ксиляриевые (Xylariaceae)/Аннулогипоксилон многообразный (Annulohypoxylon multiforme)/thumbs/fungi-0003033.jpg" thumbnailWidth="180" thumbnailHeight="180" />
         
     </channel>
 </rss>

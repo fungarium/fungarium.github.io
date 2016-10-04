@@ -5,11 +5,11 @@
     <channel>
         <title>Пениофоровые (Peniophoraceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.4</generator>
+        <generator>jAlbum 13.5</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/Пениофора инкарнатная (Peniophora incarnata)/album.rss" title="Пениофора инкарнатная (Peniophora incarnata)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/Пениофора инкарнатная (Peniophora incarnata)/thumbs/fungi-0002538.JPG" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/Пениофора красная (Peniophora rufa)/album.rss" title="Пениофора красная (Peniophora rufa)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/Пениофора красная (Peniophora rufa)/thumbs/fungi-0003751.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/Пениофора инкарнатная (Peniophora incarnata)/album.rss" title="Пениофора инкарнатная (Peniophora incarnata)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/Пениофора инкарнатная (Peniophora incarnata)/thumbs/fungi-0002538.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/Пениофора красная (Peniophora rufa)/album.rss" title="Пениофора красная (Peniophora rufa)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Пениофоровые (Peniophoraceae)/Пениофора красная (Peniophora rufa)/thumbs/fungi-0003751.jpg" thumbnailWidth="180" thumbnailHeight="180" />
         
     </channel>
 </rss>

@@ -1,5 +1,8 @@
+/e/album_fungi/fixjpg.sh
+/e/Fungarium/fixjpg.sh
+cd /e/album_fungi/
 git add --all *
-git commit -m '++ Белошампиньон сереющий, дымчатый (Leucoagaricus cinerascens); ++ Сыроежка зелёная (Russula aeruginea); ++ Млечник полезный (Lactarius utilis); ++ Альбатреллус краснеющий (Albatrellus subrubescens); ++ Телефора наземная (Thelephora terrestris); ++ Рыжик еловый (Lactarius deterrimus)'
+git commit --file=/e/fungi.txt
 git reflog expire --expire=now --all
 git gc --force --aggressive --prune=now
 git repack -a -d
