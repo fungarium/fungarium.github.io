@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дождевик ежовый, ежевидно-колючий (Lycoperdon echinatum)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.5</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик ежовый, ежевидно-колючий (Lycoperdon echinatum)/</jalbum:absolutePath>
+        <item>
+            <title>fungi-0000118</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик ежовый, ежевидно-колючий (Lycoperdon echinatum)/slides/fungi-0000118.jpg</link>
+            <pubDate>Thu, 06 Oct 2016 23:22:06 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик ежовый, ежевидно-колючий (Lycoperdon echinatum)/thumbs/fungi-0000118.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Агариковые, Шампиньоновые (Agaricaceae)/Дождевик ежовый, ежевидно-колючий (Lycoperdon echinatum)/slides/fungi-0000118.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Fri, 02 Oct 2009 11:00:02 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0000118.jpg</guid>
+        </item>
+    </channel>
+</rss>

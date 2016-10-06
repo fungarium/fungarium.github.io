@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Маслёнок зернистый (Suillus granulatus)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.5</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Маслёнок зернистый (Suillus granulatus)/</jalbum:absolutePath>
+        <item>
+            <title>DSC02900</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Маслёнок зернистый (Suillus granulatus)/slides/DSC02900.jpg</link>
+            <pubDate>Thu, 06 Oct 2016 23:22:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Маслёнок зернистый (Suillus granulatus)/thumbs/DSC02900.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Маслёнок зернистый (Suillus granulatus)/slides/DSC02900.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 27 Aug 2016 17:12:47 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02900.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0003356</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Маслёнок зернистый (Suillus granulatus)/slides/fungi-0003356.jpg</link>
+            <pubDate>Thu, 06 Oct 2016 23:22:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Маслёнок зернистый (Suillus granulatus)/thumbs/fungi-0003356.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Маслёнок зернистый (Suillus granulatus)/slides/fungi-0003356.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 19 Sep 2009 13:25:33 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003356.jpg</guid>
+        </item>
+        <item>
+            <title>fungi-0003357</title>
+            <link>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Маслёнок зернистый (Suillus granulatus)/slides/fungi-0003357.jpg</link>
+            <pubDate>Thu, 06 Oct 2016 23:22:32 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Маслёнок зернистый (Suillus granulatus)/thumbs/fungi-0003357.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Болетовые (Boletales)/Маслёнковые (Suillaceae)/Маслёнок зернистый (Suillus granulatus)/slides/fungi-0003357.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sat, 19 Sep 2009 13:25:38 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/fungi-0003357.jpg</guid>
+        </item>
+    </channel>
+</rss>

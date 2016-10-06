@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Кудония сомнительная (Cudonia confusa)</title>
+   	<link>../../../..</link>
+        <generator>jAlbum 13.5</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Кудониевые (Cudoniaceae)/Кудония сомнительная (Cudonia confusa)/</jalbum:absolutePath>
+        <item>
+            <title>IMG_6402</title>
+            <link>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Кудониевые (Cudoniaceae)/Кудония сомнительная (Cudonia confusa)/slides/IMG_6402.jpg</link>
+            <pubDate>Thu, 06 Oct 2016 23:22:50 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Кудониевые (Cudoniaceae)/Кудония сомнительная (Cudonia confusa)/thumbs/IMG_6402.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Кудониевые (Cudoniaceae)/Кудония сомнительная (Cudonia confusa)/slides/IMG_6402.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 10 Sep 2015 12:08:19 +0300" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/IMG_6402.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6404</title>
+            <link>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Кудониевые (Cudoniaceae)/Кудония сомнительная (Cudonia confusa)/slides/IMG_6404.jpg</link>
+            <pubDate>Thu, 06 Oct 2016 23:22:50 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Кудониевые (Cudoniaceae)/Кудония сомнительная (Cudonia confusa)/thumbs/IMG_6404.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Кудониевые (Cudoniaceae)/Кудония сомнительная (Cudonia confusa)/slides/IMG_6404.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 10 Sep 2015 12:08:19 +0300" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/IMG_6404.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6406</title>
+            <link>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Кудониевые (Cudoniaceae)/Кудония сомнительная (Cudonia confusa)/slides/IMG_6406.jpg</link>
+            <pubDate>Thu, 06 Oct 2016 23:22:50 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Кудониевые (Cudoniaceae)/Кудония сомнительная (Cudonia confusa)/thumbs/IMG_6406.jpg" width="180" height="180"/>
+            <media:content type="image/jpeg" url="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Гелоциевые (Helotiales)/Кудониевые (Cudoniaceae)/Кудония сомнительная (Cudonia confusa)/slides/IMG_6406.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Thu, 10 Sep 2015 12:08:21 +0300" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/IMG_6406.jpg</guid>
+        </item>
+    </channel>
+</rss>
