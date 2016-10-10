@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Рогатиковые (Clavariaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.5</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Рогатиковые (Clavariaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Рогатиковые (Clavariaceae)/Рогатик рожковидный (Clavulinopsis corniculata)/album.rss" title="Рогатик рожковидный (Clavulinopsis corniculata)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Рогатиковые (Clavariaceae)/Рогатик рожковидный (Clavulinopsis corniculata)/thumbs/DSC04064.JPG" thumbnailWidth="180" thumbnailHeight="180" />
+        
+    </channel>
+</rss>
