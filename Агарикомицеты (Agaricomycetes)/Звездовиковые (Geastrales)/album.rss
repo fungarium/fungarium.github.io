@@ -5,10 +5,10 @@
     <channel>
         <title>Звездовиковые (Geastrales)</title>
    	<link>../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/album.rss" title="Звездовиковые (Geastraceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик маленький (Geastrum minimum)/thumbs/DSC02710.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/album.rss" title="Звездовиковые (Geastraceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик маленький (Geastrum minimum)/thumbs/DSC02710.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

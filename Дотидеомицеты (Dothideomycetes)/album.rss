@@ -5,11 +5,11 @@
     <channel>
         <title>Дотидеомицеты (Dothideomycetes)</title>
    	<link>..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Дотидеомицеты (Dothideomycetes)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/Дотидеевые (Dothideales)/album.rss" title="Дотидеевые (Dothideales)" thumbnail="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/Дотидеевые (Dothideales)/Дотидеевые (Dothideaceae)/Стигмина плодовая (Stigmina carpophila)/thumbs/IMG_6386_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/Плеоспоровые (Pleosporales)/album.rss" title="Плеоспоровые (Pleosporales)" thumbnail="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/Плеоспоровые (Pleosporales)/Вентуриевые (Venturiaceae)/Вентурия неравная (Venturia inaequalis)/thumbs/DSC05853_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/Дотидеевые (Dothideales)/album.rss" title="Дотидеевые (Dothideales)" thumbnail="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/Дотидеевые (Dothideales)/Дотидеевые (Dothideaceae)/Стигмина плодовая (Stigmina carpophila)/thumbs/IMG_6386_.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/Плеоспоровые (Pleosporales)/album.rss" title="Плеоспоровые (Pleosporales)" thumbnail="http://fungarium.info/Дотидеомицеты (Dothideomycetes)/Плеоспоровые (Pleosporales)/Вентуриевые (Venturiaceae)/Вентурия неравная (Venturia inaequalis)/thumbs/DSC05853_.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

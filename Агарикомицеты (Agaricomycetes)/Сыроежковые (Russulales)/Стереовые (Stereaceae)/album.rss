@@ -5,11 +5,11 @@
     <channel>
         <title>Стереовые (Stereaceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум жестковолосистый (Stereum hirsutum)/album.rss" title="Стереум жестковолосистый (Stereum hirsutum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум жестковолосистый (Stereum hirsutum)/thumbs/fungi-0001516.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум нежновойлочный (Stereum subtomentosum)/album.rss" title="Стереум нежновойлочный (Stereum subtomentosum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум нежновойлочный (Stereum subtomentosum)/thumbs/DSC04003.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум жестковолосистый (Stereum hirsutum)/album.rss" title="Стереум жестковолосистый (Stereum hirsutum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум жестковолосистый (Stereum hirsutum)/thumbs/fungi-0001516.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум нежновойлочный (Stereum subtomentosum)/album.rss" title="Стереум нежновойлочный (Stereum subtomentosum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Сыроежковые (Russulales)/Стереовые (Stereaceae)/Стереум нежновойлочный (Stereum subtomentosum)/thumbs/DSC04003.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

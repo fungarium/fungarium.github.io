@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Энтоломовые (Entolomataceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Энтоломовые (Entolomataceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Энтоломовые (Entolomataceae)/Энтолома шершавоножковая (Entoloma hirtipes)/album.rss" title="Энтолома шершавоножковая (Entoloma hirtipes)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Энтоломовые (Entolomataceae)/Энтолома шершавоножковая (Entoloma hirtipes)/thumbs/0DSC08445.JPG" thumbnailWidth="320" thumbnailHeight="329" />
+        
+    </channel>
+</rss>

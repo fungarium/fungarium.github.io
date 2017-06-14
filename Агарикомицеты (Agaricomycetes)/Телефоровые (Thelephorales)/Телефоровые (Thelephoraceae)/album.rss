@@ -5,11 +5,11 @@
     <channel>
         <title>Телефоровые (Thelephoraceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/Телефора гвоздичная (Thelephora caryophyllea)/album.rss" title="Телефора гвоздичная (Thelephora caryophyllea)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/Телефора гвоздичная (Thelephora caryophyllea)/thumbs/IMG_6325.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/Телефора наземная (Thelephora terrestris)/album.rss" title="Телефора наземная (Thelephora terrestris)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/Телефора наземная (Thelephora terrestris)/thumbs/DSC03106.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/Телефора гвоздичная (Thelephora caryophyllea)/album.rss" title="Телефора гвоздичная (Thelephora caryophyllea)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/Телефора гвоздичная (Thelephora caryophyllea)/thumbs/IMG_6325.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/Телефора наземная (Thelephora terrestris)/album.rss" title="Телефора наземная (Thelephora terrestris)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/Телефора наземная (Thelephora terrestris)/thumbs/DSC03106.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

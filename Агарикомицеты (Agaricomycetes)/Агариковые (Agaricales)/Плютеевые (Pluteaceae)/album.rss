@@ -5,10 +5,10 @@
     <channel>
         <title>Плютеевые (Pluteaceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Плютеевые (Pluteaceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Плютеевые (Pluteaceae)/Плютей олений (Pluteus cervinus)/album.rss" title="Плютей олений (Pluteus cervinus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Плютеевые (Pluteaceae)/Плютей олений (Pluteus cervinus)/thumbs/DSC03993.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Плютеевые (Pluteaceae)/Плютей олений (Pluteus cervinus)/album.rss" title="Плютей олений (Pluteus cervinus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Плютеевые (Pluteaceae)/Плютей олений (Pluteus cervinus)/thumbs/DSC03993.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

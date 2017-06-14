@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Пукциниевые (Pucciniales)</title>
+   	<link>../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Колеоспоровые (Coleosporiaceae)/album.rss" title="Колеоспоровые (Coleosporiaceae)" thumbnail="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Колеоспоровые (Coleosporiaceae)/Хризомикса Воронина (Chrysomyxa woroninii)/thumbs/0DSC07979_.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Кронатиевые (Cronartiaceae)/album.rss" title="Кронатиевые (Cronartiaceae)" thumbnail="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Кронатиевые (Cronartiaceae)/Кронатий повислый (Cronartium flaccidum)/thumbs/DSC00471.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Мелампсоровые (Melampsoraceae)/album.rss" title="Мелампсоровые (Melampsoraceae)" thumbnail="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Мелампсоровые (Melampsoraceae)/Мелампсора изогнутая (Melampsora populnea)/thumbs/DSC05617_.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Пукциниевые (Pucciniaceae)/album.rss" title="Пукциниевые (Pucciniaceae)" thumbnail="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Пукциниевые (Pucciniaceae)/Пукциния букса (Puccinia buxi)/thumbs/DSC05587.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+        
+    </channel>
+</rss>

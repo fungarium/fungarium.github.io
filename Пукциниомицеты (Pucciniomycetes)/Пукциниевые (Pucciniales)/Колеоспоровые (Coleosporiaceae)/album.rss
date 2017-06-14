@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Колеоспоровые (Coleosporiaceae)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Колеоспоровые (Coleosporiaceae)/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Колеоспоровые (Coleosporiaceae)/Колеоспорий рибикола (Coleosporium ribicola)/album.rss" title="Колеоспорий рибикола (Coleosporium ribicola)" thumbnail="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Колеоспоровые (Coleosporiaceae)/Колеоспорий рибикола (Coleosporium ribicola)/thumbs/IMG_5403_.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Колеоспоровые (Coleosporiaceae)/Хризомикса Воронина (Chrysomyxa woroninii)/album.rss" title="Хризомикса Воронина (Chrysomyxa woroninii)" thumbnail="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Колеоспоровые (Coleosporiaceae)/Хризомикса Воронина (Chrysomyxa woroninii)/thumbs/0DSC07979_.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+        
+    </channel>
+</rss>

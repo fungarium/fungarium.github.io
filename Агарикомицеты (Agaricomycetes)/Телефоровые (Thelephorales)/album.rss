@@ -5,11 +5,11 @@
     <channel>
         <title>Телефоровые (Thelephorales)</title>
    	<link>../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Банкеровые (Bankeraceae)/album.rss" title="Банкеровые (Bankeraceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Банкеровые (Bankeraceae)/Ежовик пёстрый (Sarcodon imbricatus)/thumbs/fungi-0004565.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/album.rss" title="Телефоровые (Thelephoraceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/Телефора гвоздичная (Thelephora caryophyllea)/thumbs/IMG_6325.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Банкеровые (Bankeraceae)/album.rss" title="Банкеровые (Bankeraceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Банкеровые (Bankeraceae)/Ежовик пёстрый (Sarcodon imbricatus)/thumbs/fungi-0004565.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/album.rss" title="Телефоровые (Thelephoraceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Телефоровые (Thelephorales)/Телефоровые (Thelephoraceae)/Телефора гвоздичная (Thelephora caryophyllea)/thumbs/IMG_6325.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

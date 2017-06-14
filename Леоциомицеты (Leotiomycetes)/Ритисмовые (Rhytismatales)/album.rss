@@ -5,10 +5,10 @@
     <channel>
         <title>Ритисмовые (Rhytismatales)</title>
    	<link>../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/album.rss" title="Ритисмовые (Rhytismataceae)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма кленовая (Rhytisma acerinum)/thumbs/DSC05464_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/album.rss" title="Ритисмовые (Rhytismataceae)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Ритисмовые (Rhytismatales)/Ритисмовые (Rhytismataceae)/Ритисма кленовая (Rhytisma acerinum)/thumbs/DSC05464_.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

@@ -5,10 +5,10 @@
     <channel>
         <title>Леоциевые (Leotiaces)</title>
    	<link>../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Леоциомицеты (Leotiomycetes)/Леоциевые (Leotiaces)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Леоциевые (Leotiaces)/Леоциевые (Leotiaceae)/album.rss" title="Леоциевые (Leotiaceae)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Леоциевые (Leotiaces)/Леоциевые (Leotiaceae)/Леоция скользкая (Leotia lubrica)/thumbs/fungi-0004536.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Леоциевые (Leotiaces)/Леоциевые (Leotiaceae)/album.rss" title="Леоциевые (Leotiaceae)" thumbnail="http://fungarium.info/Леоциомицеты (Leotiomycetes)/Леоциевые (Leotiaces)/Леоциевые (Leotiaceae)/Леоция скользкая (Leotia lubrica)/thumbs/fungi-0004536.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

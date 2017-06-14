@@ -5,12 +5,12 @@
     <channel>
         <title>Клавулиновые (Clavulinaceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Клавулина гребенчатая (Clavulina cristata)/album.rss" title="Клавулина гребенчатая (Clavulina cristata)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Клавулина гребенчатая (Clavulina cristata)/thumbs/DSC07545_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Клавулина коралловидная (Clavulina coralloides)/album.rss" title="Клавулина коралловидная (Clavulina coralloides)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Клавулина коралловидная (Clavulina coralloides)/thumbs/DSC07345.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Рогатик беловатый (Clavulina rugosa)/album.rss" title="Рогатик беловатый (Clavulina rugosa)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Рогатик беловатый (Clavulina rugosa)/thumbs/fungi-0004107_.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Клавулина гребенчатая (Clavulina cristata)/album.rss" title="Клавулина гребенчатая (Clavulina cristata)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Клавулина гребенчатая (Clavulina cristata)/thumbs/DSC07545_.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Клавулина коралловидная (Clavulina coralloides)/album.rss" title="Клавулина коралловидная (Clavulina coralloides)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Клавулина коралловидная (Clavulina coralloides)/thumbs/DSC07345.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Рогатик беловатый (Clavulina rugosa)/album.rss" title="Рогатик беловатый (Clavulina rugosa)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Клавулиновые (Clavulinaceae)/Рогатик беловатый (Clavulina rugosa)/thumbs/fungi-0004107_.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

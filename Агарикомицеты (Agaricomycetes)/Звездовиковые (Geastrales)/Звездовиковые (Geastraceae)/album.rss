@@ -5,11 +5,11 @@
     <channel>
         <title>Звездовиковые (Geastraceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик маленький (Geastrum minimum)/album.rss" title="Звездовик маленький (Geastrum minimum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик маленький (Geastrum minimum)/thumbs/DSC02710.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик сводчатый (Geastrum fornicatum)/album.rss" title="Звездовик сводчатый (Geastrum fornicatum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик сводчатый (Geastrum fornicatum)/thumbs/DSC07284.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик маленький (Geastrum minimum)/album.rss" title="Звездовик маленький (Geastrum minimum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик маленький (Geastrum minimum)/thumbs/DSC02710.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик сводчатый (Geastrum fornicatum)/album.rss" title="Звездовик сводчатый (Geastrum fornicatum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Звездовиковые (Geastrales)/Звездовиковые (Geastraceae)/Звездовик сводчатый (Geastrum fornicatum)/thumbs/DSC07284.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

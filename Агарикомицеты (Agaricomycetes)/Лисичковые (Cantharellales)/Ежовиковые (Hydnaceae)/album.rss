@@ -5,11 +5,11 @@
     <channel>
         <title>Ежовиковые (Hydnaceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/Ежовик жёлтый (Hydnum repandum)/album.rss" title="Ежовик жёлтый (Hydnum repandum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/Ежовик жёлтый (Hydnum repandum)/thumbs/fungi-0003469.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/Систотрема сливающаяся (Sistotrema confluens)/album.rss" title="Систотрема сливающаяся (Sistotrema confluens)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/Систотрема сливающаяся (Sistotrema confluens)/thumbs/DSC03607.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/Ежовик жёлтый (Hydnum repandum)/album.rss" title="Ежовик жёлтый (Hydnum repandum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/Ежовик жёлтый (Hydnum repandum)/thumbs/fungi-0003469.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/Систотрема сливающаяся (Sistotrema confluens)/album.rss" title="Систотрема сливающаяся (Sistotrema confluens)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Лисичковые (Cantharellales)/Ежовиковые (Hydnaceae)/Систотрема сливающаяся (Sistotrema confluens)/thumbs/DSC03607.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

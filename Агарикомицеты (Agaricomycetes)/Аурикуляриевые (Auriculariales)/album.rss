@@ -5,10 +5,10 @@
     <channel>
         <title>Аурикуляриевые (Auriculariales)</title>
    	<link>../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Аурикуляриевые (Auriculariales)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Аурикуляриевые (Auriculariales)/Аурикуляриевые (Auriculariaceae)/album.rss" title="Аурикуляриевые (Auriculariaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Аурикуляриевые (Auriculariales)/Аурикуляриевые (Auriculariaceae)/Аурикулярия уховидная (Auricularia auricula-judae)/thumbs/fungi-0004399.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Аурикуляриевые (Auriculariales)/Аурикуляриевые (Auriculariaceae)/album.rss" title="Аурикуляриевые (Auriculariaceae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Аурикуляриевые (Auriculariales)/Аурикуляриевые (Auriculariaceae)/Аурикулярия уховидная (Auricularia auricula-judae)/thumbs/fungi-0004399.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>

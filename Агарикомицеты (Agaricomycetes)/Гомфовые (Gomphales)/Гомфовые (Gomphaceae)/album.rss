@@ -5,11 +5,11 @@
     <channel>
         <title>Гомфовые (Gomphaceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.5</generator>
+        <generator>jAlbum 13.10</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/Рогатик, рамария еловый (Ramaria abietina)/album.rss" title="Рогатик, рамария еловый (Ramaria abietina)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/Рогатик, рамария еловый (Ramaria abietina)/thumbs/DSC07245.jpg" thumbnailWidth="180" thumbnailHeight="180" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/Рогатик, рамария красивая (Ramaria formosa)/album.rss" title="Рогатик, рамария красивая (Ramaria formosa)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/Рогатик, рамария красивая (Ramaria formosa)/thumbs/fungi-0004127.jpg" thumbnailWidth="180" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/Рогатик, рамария еловый (Ramaria abietina)/album.rss" title="Рогатик, рамария еловый (Ramaria abietina)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/Рогатик, рамария еловый (Ramaria abietina)/thumbs/DSC07245.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/Рогатик, рамария красивая (Ramaria formosa)/album.rss" title="Рогатик, рамария красивая (Ramaria formosa)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Гомфовые (Gomphales)/Гомфовые (Gomphaceae)/Рогатик, рамария красивая (Ramaria formosa)/thumbs/fungi-0004127.jpg" thumbnailWidth="320" thumbnailHeight="329" />
         
     </channel>
 </rss>
