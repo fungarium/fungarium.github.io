@@ -5,11 +5,11 @@
     <channel>
         <title>Пецицевые (Pezizaceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица изменчивая (Peziza varia)/album.rss" title="Пецица изменчивая (Peziza varia)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица изменчивая (Peziza varia)/thumbs/DSC08192.JPG" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица коричневая (Peziza badia)/album.rss" title="Пецица коричневая (Peziza badia)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица коричневая (Peziza badia)/thumbs/fungi-0003989_.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица изменчивая (Peziza varia)/album.rss" title="Пецица изменчивая (Peziza varia)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица изменчивая (Peziza varia)/thumbs/DSC08192.JPG" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица коричневая (Peziza badia)/album.rss" title="Пецица коричневая (Peziza badia)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пецицевые (Pezizaceae)/Пецица коричневая (Peziza badia)/thumbs/fungi-0003989_.jpg" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>

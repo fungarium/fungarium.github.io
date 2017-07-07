@@ -5,10 +5,10 @@
     <channel>
         <title>Дакримицетовые (Dacrymycetales)</title>
    	<link>../..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/album.rss" title="Дакримицетовые (Dacrymycetaleae)" thumbnail="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Дакримицес золотистоспоровый (Dacrymyces chrysospermus)/thumbs/fungi-0003773.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/album.rss" title="Дакримицетовые (Dacrymycetaleae)" thumbnail="http://fungarium.info/Дакримицеты (Dacrymycetes)/Дакримицетовые (Dacrymycetales)/Дакримицетовые (Dacrymycetaleae)/Дакримицес золотистоспоровый (Dacrymyces chrysospermus)/thumbs/fungi-0003773.jpg" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>

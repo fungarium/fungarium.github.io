@@ -5,12 +5,12 @@
     <channel>
         <title>Пиронемовые (Pyronemataceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Алеврия рейнская (Aleuria rhenana)/album.rss" title="Алеврия рейнская (Aleuria rhenana)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Алеврия рейнская (Aleuria rhenana)/thumbs/fungi-0004053.jpg" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/album.rss" title="Гумария полушаровидная (Humaria hemisphaerica)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/thumbs/fungi-0004136.jpg" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Скутеллиния щитовидная (Scutellinia scutellata)/album.rss" title="Скутеллиния щитовидная (Scutellinia scutellata)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Скутеллиния щитовидная (Scutellinia scutellata)/thumbs/fungi-0001562.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Алеврия рейнская (Aleuria rhenana)/album.rss" title="Алеврия рейнская (Aleuria rhenana)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Алеврия рейнская (Aleuria rhenana)/thumbs/fungi-0004053.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/album.rss" title="Гумария полушаровидная (Humaria hemisphaerica)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Гумария полушаровидная (Humaria hemisphaerica)/thumbs/fungi-0004136.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Скутеллиния щитовидная (Scutellinia scutellata)/album.rss" title="Скутеллиния щитовидная (Scutellinia scutellata)" thumbnail="http://fungarium.info/Пецицомицеты (Pezizomycetes)/Пецицевые (Pezizales)/Пиронемовые (Pyronemataceae)/Скутеллиния щитовидная (Scutellinia scutellata)/thumbs/fungi-0001562.jpg" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>

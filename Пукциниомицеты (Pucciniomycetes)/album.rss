@@ -5,10 +5,10 @@
     <channel>
         <title>Пукциниомицеты (Pucciniomycetes)</title>
    	<link>..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/album.rss" title="Пукциниевые (Pucciniales)" thumbnail="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Пукциниевые (Pucciniaceae)/Пукциния букса (Puccinia buxi)/thumbs/DSC05587.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/album.rss" title="Пукциниевые (Pucciniales)" thumbnail="http://fungarium.info/Пукциниомицеты (Pucciniomycetes)/Пукциниевые (Pucciniales)/Пукциниевые (Pucciniaceae)/Пукциния букса (Puccinia buxi)/thumbs/DSC05587.jpg" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>

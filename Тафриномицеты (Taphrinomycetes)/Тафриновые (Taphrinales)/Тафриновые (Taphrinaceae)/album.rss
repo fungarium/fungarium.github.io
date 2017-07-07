@@ -5,12 +5,12 @@
     <channel>
         <title>Тафриновые (Taphrinaceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина берёзовая (Taphrina betulina)/album.rss" title="Тафрина берёзовая (Taphrina betulina)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина берёзовая (Taphrina betulina)/thumbs/DSC06625.jpg" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина рябиновая (Taphrina sorbi)/album.rss" title="Тафрина рябиновая (Taphrina sorbi)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина рябиновая (Taphrina sorbi)/thumbs/DSC07869.jpg" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина черёмуховая (Taphrina padi)/album.rss" title="Тафрина черёмуховая (Taphrina padi)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина черёмуховая (Taphrina padi)/thumbs/DSC08041.JPG" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина берёзовая (Taphrina betulina)/album.rss" title="Тафрина берёзовая (Taphrina betulina)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина берёзовая (Taphrina betulina)/thumbs/DSC06625.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина рябиновая (Taphrina sorbi)/album.rss" title="Тафрина рябиновая (Taphrina sorbi)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина рябиновая (Taphrina sorbi)/thumbs/DSC07869.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина черёмуховая (Taphrina padi)/album.rss" title="Тафрина черёмуховая (Taphrina padi)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина черёмуховая (Taphrina padi)/thumbs/DSC08041.JPG" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>

@@ -5,12 +5,12 @@
     <channel>
         <title>Ганодермовые (Ganodermataceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Ганодерма смолистая (Ganoderma resinaceum)/album.rss" title="Ганодерма смолистая (Ganoderma resinaceum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Ганодерма смолистая (Ganoderma resinaceum)/thumbs/DSC05050.jpg" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Ганодерма южная (Ganoderma australe)/album.rss" title="Ганодерма южная (Ganoderma australe)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Ганодерма южная (Ganoderma australe)/thumbs/fungi-0004439.jpg" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Трутовик плоский (Ganoderma applanatum)/album.rss" title="Трутовик плоский (Ganoderma applanatum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Трутовик плоский (Ganoderma applanatum)/thumbs/fungi-0002224.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Ганодерма смолистая (Ganoderma resinaceum)/album.rss" title="Ганодерма смолистая (Ganoderma resinaceum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Ганодерма смолистая (Ganoderma resinaceum)/thumbs/DSC05050.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Ганодерма южная (Ganoderma australe)/album.rss" title="Ганодерма южная (Ganoderma australe)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Ганодерма южная (Ganoderma australe)/thumbs/fungi-0004439.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Трутовик плоский (Ganoderma applanatum)/album.rss" title="Трутовик плоский (Ganoderma applanatum)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Полипоровые (Polyporales)/Ганодермовые (Ganodermataceae)/Трутовик плоский (Ganoderma applanatum)/thumbs/fungi-0002224.jpg" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>

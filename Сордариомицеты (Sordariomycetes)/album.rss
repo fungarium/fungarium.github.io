@@ -5,12 +5,12 @@
     <channel>
         <title>Сордариомицеты (Sordariomycetes)</title>
    	<link>..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Сордариомицеты (Sordariomycetes)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/album.rss" title="Гипокрейные (Hypocreales)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Кордицепсовые (Cordycipitaceae)/Кордицепс военный (Cordyceps militaris)/thumbs/DSC03748.jpg" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/album.rss" title="Ксиляриевые (Xylariales)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Ксиляриевые (Xylariaceae)/Аннулогипоксилон многообразный (Annulohypoxylon multiforme)/thumbs/fungi-0003033.jpg" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Офиостомовые (Ophiostomatales)/album.rss" title="Офиостомовые (Ophiostomatales)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Офиостомовые (Ophiostomatales)/Офиостомовые (Ophiostomatales)/Офиостома вязовая (Ophiostoma ulmi)/thumbs/Съеденные листья 1.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/album.rss" title="Гипокрейные (Hypocreales)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Гипокрейные (Hypocreales)/Кордицепсовые (Cordycipitaceae)/Кордицепс военный (Cordyceps militaris)/thumbs/DSC03748.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/album.rss" title="Ксиляриевые (Xylariales)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Ксиляриевые (Xylariales)/Ксиляриевые (Xylariaceae)/Аннулогипоксилон многообразный (Annulohypoxylon multiforme)/thumbs/fungi-0003033.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Офиостомовые (Ophiostomatales)/album.rss" title="Офиостомовые (Ophiostomatales)" thumbnail="http://fungarium.info/Сордариомицеты (Sordariomycetes)/Офиостомовые (Ophiostomatales)/Офиостомовые (Ophiostomatales)/Офиостома вязовая (Ophiostoma ulmi)/thumbs/Съеденные листья 1.jpg" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>

@@ -5,10 +5,10 @@
     <channel>
         <title>Тафриномицеты (Taphrinomycetes)</title>
    	<link>..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Тафриномицеты (Taphrinomycetes)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/album.rss" title="Тафриновые (Taphrinales)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина черёмуховая (Taphrina padi)/thumbs/DSC08041.JPG" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/album.rss" title="Тафриновые (Taphrinales)" thumbnail="http://fungarium.info/Тафриномицеты (Taphrinomycetes)/Тафриновые (Taphrinales)/Тафриновые (Taphrinaceae)/Тафрина черёмуховая (Taphrina padi)/thumbs/DSC08041.JPG" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>

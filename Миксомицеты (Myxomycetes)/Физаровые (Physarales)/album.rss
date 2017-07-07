@@ -5,10 +5,10 @@
     <channel>
         <title>Физаровые (Physarales)</title>
    	<link>../..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Миксомицеты (Myxomycetes)/Физаровые (Physarales)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Физаровые (Physarales)/Физаровые (Physaraceae)/album.rss" title="Физаровые (Physaraceae)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Физаровые (Physarales)/Физаровые (Physaraceae)/Фулиго гнилостный (Fuligo septica)/thumbs/fungi-0000074.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Физаровые (Physarales)/Физаровые (Physaraceae)/album.rss" title="Физаровые (Physaraceae)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Физаровые (Physarales)/Физаровые (Physaraceae)/Фулиго гнилостный (Fuligo septica)/thumbs/fungi-0000074.jpg" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>

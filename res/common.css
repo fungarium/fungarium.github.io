@@ -735,15 +735,15 @@ video, audio {
 	display: inline-block;
 	margin: 1px;
 	text-align: center;
-	width: 96px;
-	height: 98px;
-	line-height: 98px;
+	width: 115px;
+	height: 96px;
+	line-height: 96px;
 }
 .shopall ul.thumbs li img {
 	width: auto;
 	height: auto;
-	max-width: 96px;
-	max-height: 98px;
+	max-width: 115px;
+	max-height: 96px;
 }
 
 .shopall ul.thumbs li a.remove {
@@ -890,14 +890,14 @@ a.control:hover {
 
 #main .container {
 	position: relative;
-	width: 1602px;
+	width: 1640px;
 	height: 100%;
 	max-height: 100%;
 	zoom: 1;
 	margin: 0 auto;
 }
 #main header {
-	margin-left: 1px;
+	margin-left: 20px;
 }
 #main header .title aside {
 	float: right;
@@ -916,7 +916,7 @@ a.control:hover {
 	font-size: 140%;
 }
 #main .items {
-	width: 1602px;
+	width: 1640px;
 	margin: 0;
 	overflow-x: hidden;
 	overflow-y: auto;
@@ -1188,7 +1188,7 @@ a.control:hover {
 
 .left-box {
 	margin-top: 20px;
-	margin-left: 1px;
+	margin-left: 20px;
 	min-height: 120px;
 }
 
@@ -1196,7 +1196,7 @@ a.control:hover {
 
 #main .items > .cont {
 	display: block;
-	width: 1602px;
+	width: 1640px;
 	padding-right: 0px;
 }
 
@@ -1205,7 +1205,7 @@ a.control:hover {
 #main footer {
 	clear: both;
 	display: block;
-	margin: 10px 1px;
+	margin: 10px 20px;
 	text-align: center;
 }
 #main footer .wrap {
@@ -1360,7 +1360,7 @@ a.control:hover {
 #main article {
 	display: block;
 	position: relative;
-	margin: 0 1px;
+	margin: 0 20px;
 	padding: 20px;
 	color: #000000;
 	background-color: rgba(255,255,255,0.1);
@@ -1385,11 +1385,11 @@ a.control:hover {
 .thumbs,
 .folders {
 	table-layout: fixed;
-	width: 1602px;
+	width: 1640px;
 	clear: both;
 	border-collapse: separate;
-	border-spacing: 1px;
-	margin-top: -1px;
+	border-spacing: 20px;
+	margin-top: -20px;
 }
 .ie7 .folders {
 	margin-right: -20px;
@@ -1404,8 +1404,8 @@ a.control:hover {
 	-moz-border-radius:5px; border-radius:5px;
 }
 .folders td {
-	width: 33.333333333333336%;
-	max-width: 532px;
+	width: 25%;
+	max-width: 385px;
 	background-color: rgba(255,255,255,0.1);
 	transition: background-color 250ms linear;
 	overflow: hidden;
@@ -1450,9 +1450,8 @@ a.control:hover {
 
 .folders aside {
 	position: relative;
-	float: left;
-	display: inline;
-	margin: 39px 0.8em 39px 39px;
+	margin: 67px auto 0.5em auto;
+	display: table;
 	text-align: center;
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -1463,23 +1462,24 @@ a.control:hover {
 }
 .folders aside a {
 	display: table-cell;
-	width: 320px;
-	height: 329px;
+	width: 251px;
+	height: 208px;
 	vertical-align: middle;
 }
 .ie7 .folders aside a {
 	display: block;
 }
 .folders aside a img {
-	max-width: 320px;
-	max-height: 329px;
+	max-width: 251px;
+	max-height: 208px;
 	vertical-align: top;
 	border: none;
 }
 .folders .data {
 	overflow-x: hidden;
-	padding: 39px 39px 39px 0;
-	min-width: 70px;
+	padding: 0.8em 10px;
+	max-width: 365px;
+	text-align: center;
 	-webkit-overflow-scrolling: touch;
 	overflow-scrolling: touch;
 }
@@ -1513,17 +1513,17 @@ a.control:hover {
 .neighbors {
 	clear: both;
 	line-height: 40px;
-	margin: 0 1px 1px 1px;
+	margin: 0 20px 20px 20px;
 }
 .neighbors a {
 	display: inline-block;
 	vertical-align: top;
 	color: #000000;
-	max-width: 721px;
+	max-width: 656px;
 	max-height: 40px;
 	white-space: nowrap;
 	overflow: hidden;
-	padding: 39px;
+	padding: 67px;
 	background-color: rgba(255,255,255,0.1);
 	transition: background-color 250ms linear;
 	-webkit-transition: background-color 250ms linear;
@@ -1572,21 +1572,21 @@ a.control:hover {
 /******************************************* Thumbnail grid on index page */
 
 .thumbs td {
-	width: 25%;
+	width: 33.333333333333336%;
 	padding: 0;
 	background-color: rgba(255,255,255,0.1);
 }
 /*.thumbs table td {
-	width: 398px;
+	width: 519px;
 }*/
 .thumbs td > a {
 	display: block;
 	position: relative;
-	height: 329px;
-	line-height: 325px;
+	height: 320px;
+	line-height: 316px;
 	overflow: hidden;
 	text-align: center;
-	padding: 39px 39px 10px 39px;
+	padding: 67px 67px 10px 67px;
 	-moz-border-top-left-radius:5px; -moz-border-top-right-radius:5px; border-top-left-radius:5px; border-top-right-radius:5px;
 	transition: background-color 250ms linear;
 	-webkit-transition: background-color 250ms linear;
@@ -1621,8 +1621,8 @@ a.control:hover {
 .thumbs td > a img {
 	display: inline;
 	vertical-align: middle;
-	max-width: 320px;
-	max-height: 329px;
+	max-width: 385px;
+	max-height: 320px;
 	border: 0;
 	outline: none;
 }
@@ -1636,7 +1636,7 @@ a.control:hover {
 	margin: 0;
 	padding: 0.5em 8px;
 	line-height: 1.2;
-	max-width: 382px;
+	max-width: 503px;
 	overflow-x: hidden;
 	text-align: center;
 	-webkit-overflow-scrolling: touch;
@@ -1680,8 +1680,8 @@ a.control:hover {
 }
 .thumbs .newlabel {
 	line-height: 12px;
-	right: 39px;
-	top: 39px;
+	right: 67px;
+	top: 67px;
 }	
 .folders .newlabel {
 	line-height: 12px;
@@ -1720,8 +1720,8 @@ a.control:hover {
 .thumbs .checkbox {
 	width: 20px;
 	height: 20px;
-	left: 39px;
-	top: 39px;
+	left: 67px;
+	top: 67px;
 }
 .gallery .main .checkbox {
 	width: 24px;
@@ -1758,7 +1758,7 @@ a.control:hover {
 /******************************************* Actions */
 
 .actions {
-	margin: 10px 1px;
+	margin: 10px 20px;
 	min-height: 30px;
 	-moz-border-radius:5px; border-radius:5px;
 }
@@ -1793,8 +1793,8 @@ a.control:hover {
 
 #map {
 	display: block;
-	margin: 0 1px;
-	padding: 39px;
+	margin: 0 20px;
+	padding: 67px;
 	background-color: rgba(255,255,255,0.1);
 	overflow: hidden;
 	-moz-border-radius:5px; border-radius:5px;
@@ -1805,7 +1805,7 @@ a.control:hover {
 }
 #map .cont {
 	position: relative;
-	width: 1522px;
+	width: 1466px;
 	height: 300px;
 }
 
@@ -1814,13 +1814,13 @@ a.control:hover {
 .fb-comments, 
 .disqus-comments {
 	margin-top: 20px;
-	margin-left: 1px;
-	margin-right: 1px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 .disqus-comments {
-	padding: 39px;
+	padding: 67px;
 	background-color: rgba(255,255,255,0.1);
-	width: 1522px;
+	width: 1466px;
 	-moz-border-radius:5px; border-radius:5px;
 }
 
@@ -1996,7 +1996,7 @@ a.control:hover {
 	z-index: 10000;
 }
 .gallery .navigation.hide {
-	top: -239px;
+	top: -233px;
 }
 .gallery .navigation nav {
 	display: none;
@@ -2107,8 +2107,8 @@ a.control:hover {
 	top: 0;
 	left: 0;
 	display: block;
-	width: 1562px;
-	height: 239px;
+	width: 1600px;
+	height: 233px;
 	max-width: 80%;
 	margin: 0 auto;
 	-moz-border-bottom-left-radius:9px; -moz-border-bottom-right-radius:9px; border-bottom-left-radius:9px; border-bottom-right-radius:9px;
@@ -2136,7 +2136,7 @@ a.control:hover {
 	position: relative;
 	top: 5px;
 	margin: 0 40px;
-	height: 227px;
+	height: 221px;
 	overflow: hidden;
 }
 .gallery .scrollbox ul.cont {
@@ -2156,8 +2156,8 @@ a.control:hover {
 	float: left;
 	display: inline;
 	position: relative;
-	width: 219px;
-	height: 225px;
+	width: 263px;
+	height: 219px;
 	overflow: hidden;
 	margin: 1px;
 	text-align: center;
@@ -2168,13 +2168,13 @@ a.control:hover {
 	position: relative;
 	padding: 3px;
 	margin-right: 1px;
-	width: 213px;
-	height: 219px;
+	width: 257px;
+	height: 213px;
 	text-align: center;
 }
 .gallery .scrollbox .cont a img {
-	max-width: 213px;
-	max-height: 219px;
+	max-width: 257px;
+	max-height: 213px;
 	vertical-align: middle;
 }
 .gallery .scrollbox .cont a:hover, 
@@ -2198,7 +2198,7 @@ a.control:hover {
 	position: absolute;
 	top: 5px;
 	width: 24px;
-	height: 227px;
+	height: 221px;
 	background-repeat: no-repeat;
 	background-position: left center;
 }	
@@ -2266,7 +2266,7 @@ a.control:hover {
 	-moz-border-radius:15px; border-radius:12px;
 }
 .gallery .img .other {
-	width: 640px;
+	width: 770px;
 	text-align: center;
 	background-color: rgba(240,240,240,0.85);
 	color: #555;
@@ -2335,7 +2335,7 @@ a.control:hover {
 }
 .gallery .bottom .cont {
 	position: relative;
-	width: 1532px;
+	width: 1570px;
 	max-width: 80%;
 	margin: 0 auto;
 	padding: 5px 8px 6px 15px;
@@ -3739,3 +3739,27 @@ span.jp-artist {
 }
 
 
+.folders aside {
+	margin: inherit;
+	float: left;
+	clear: both;
+	width: 100%;
+	height: 100%;
+}
+
+.folders .data {
+	padding: inherit;
+	float: left;
+	clear: both;
+	text-align: left;
+}
+
+.folders aside a img {
+	max-width: inherit;
+	max-height: inherit;
+}
+
+.folders aside a {
+	width: 100%;
+	height: 100%;
+}

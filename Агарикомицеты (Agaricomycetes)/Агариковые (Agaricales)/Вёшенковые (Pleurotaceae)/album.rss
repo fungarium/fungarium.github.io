@@ -5,11 +5,11 @@
     <channel>
         <title>Вёшенковые (Pleurotaceae)</title>
    	<link>../../..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Вёшенковые (Pleurotaceae)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Вёшенковые (Pleurotaceae)/Вёшенка обыкновенная (Pleurotus ostreatus)/album.rss" title="Вёшенка обыкновенная (Pleurotus ostreatus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Вёшенковые (Pleurotaceae)/Вёшенка обыкновенная (Pleurotus ostreatus)/thumbs/fungi-0003778.jpg" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Вёшенковые (Pleurotaceae)/Вёшенка рожковидная (Pleurotus cornucopiae)/album.rss" title="Вёшенка рожковидная (Pleurotus cornucopiae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Вёшенковые (Pleurotaceae)/Вёшенка рожковидная (Pleurotus cornucopiae)/thumbs/fungi-0002288.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Вёшенковые (Pleurotaceae)/Вёшенка обыкновенная (Pleurotus ostreatus)/album.rss" title="Вёшенка обыкновенная (Pleurotus ostreatus)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Вёшенковые (Pleurotaceae)/Вёшенка обыкновенная (Pleurotus ostreatus)/thumbs/fungi-0003778.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Вёшенковые (Pleurotaceae)/Вёшенка рожковидная (Pleurotus cornucopiae)/album.rss" title="Вёшенка рожковидная (Pleurotus cornucopiae)" thumbnail="http://fungarium.info/Агарикомицеты (Agaricomycetes)/Агариковые (Agaricales)/Вёшенковые (Pleurotaceae)/Вёшенка рожковидная (Pleurotus cornucopiae)/thumbs/fungi-0002288.jpg" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>

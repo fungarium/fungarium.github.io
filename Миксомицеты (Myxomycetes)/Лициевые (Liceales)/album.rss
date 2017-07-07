@@ -5,11 +5,11 @@
     <channel>
         <title>Лициевые (Liceales)</title>
    	<link>../..</link>
-        <generator>jAlbum 13.10</generator>
+        <generator>jAlbum 14</generator>
    		<description></description>
         <jalbum:absolutePath>http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Ретикуляриевые (Reticulariaceae)/album.rss" title="Ретикуляриевые (Reticulariaceae)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Ретикуляриевые (Reticulariaceae)/Ликогала древесинная (Lycogala epidendrum)/thumbs/fungi-0003361.jpg" thumbnailWidth="320" thumbnailHeight="329" />
-    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Тубиферовые (Tubiferaceae)/album.rss" title="Тубиферовые (Tubiferaceae)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Тубиферовые (Tubiferaceae)/Тубифера ржавая (Tubifera ferruginosa)/thumbs/DSC03507.jpg" thumbnailWidth="320" thumbnailHeight="329" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Ретикуляриевые (Reticulariaceae)/album.rss" title="Ретикуляриевые (Reticulariaceae)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Ретикуляриевые (Reticulariaceae)/Ликогала древесинная (Lycogala epidendrum)/thumbs/fungi-0003361.jpg" thumbnailWidth="385" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Тубиферовые (Tubiferaceae)/album.rss" title="Тубиферовые (Tubiferaceae)" thumbnail="http://fungarium.info/Миксомицеты (Myxomycetes)/Лициевые (Liceales)/Тубиферовые (Tubiferaceae)/Тубифера ржавая (Tubifera ferruginosa)/thumbs/DSC03507.jpg" thumbnailWidth="385" thumbnailHeight="320" />
         
     </channel>
 </rss>
